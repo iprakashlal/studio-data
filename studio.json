@@ -19,6 +19,20 @@
   ],
   "projects": [
     {
+      "id": "mw52obpo8ek90",
+      "name": "test",
+      "template": "portfolio",
+      "category": "personal",
+      "client": "test",
+      "notes": "",
+      "status": "draft",
+      "createdAt": "2026-11-06T14:31:09.900Z",
+      "updatedAt": "2026-11-06T14:31:09.900Z",
+      "version": 0,
+      "summary": "Prakash Lal",
+      "exports": []
+    },
+    {
       "exports": [],
       "version": 0,
       "notes": "",
