@@ -38,11 +38,18 @@
           "kind": "github",
           "note": "",
           "target": "iprakashlal/Myshop",
+          "version": 2,
+          "at": "2026-11-06T14:07:57.859Z"
+        },
+        {
+          "kind": "github",
+          "note": "",
+          "target": "iprakashlal/Myshop",
           "version": 1,
           "at": "2026-11-06T07:56:14.185Z"
         }
       ],
-      "version": 1,
+      "version": 2,
       "notes": "",
       "client": "hey",
       "status": "published",
@@ -51,7 +58,7 @@
       "template": "store",
       "category": "personal",
       "createdAt": "2026-11-06T06:34:46.739Z",
-      "updatedAt": "2026-11-06T14:07:35.843Z",
+      "updatedAt": "2026-11-06T14:07:57.859Z",
       "summary": "6 products",
       "publish": {
         "owner": "iprakashlal",
