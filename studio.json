@@ -19,18 +19,18 @@
   ],
   "projects": [
     {
+      "exports": [],
+      "version": 0,
+      "notes": "",
+      "client": "tt",
+      "status": "draft",
       "id": "mw51onr5bg3iq",
       "name": "tt theme check",
       "template": "portfolio",
       "category": "personal",
-      "client": "tt",
-      "notes": "",
-      "status": "draft",
       "createdAt": "2026-11-06T14:03:25.890Z",
       "updatedAt": "2026-11-06T14:03:25.890Z",
-      "version": 0,
-      "summary": "Your Name",
-      "exports": []
+      "summary": "Your Name"
     },
     {
       "exports": [
@@ -51,7 +51,7 @@
       "template": "store",
       "category": "personal",
       "createdAt": "2026-11-06T06:34:46.739Z",
-      "updatedAt": "2026-11-06T07:56:14.185Z",
+      "updatedAt": "2026-11-06T14:07:35.843Z",
       "summary": "6 products",
       "publish": {
         "owner": "iprakashlal",
