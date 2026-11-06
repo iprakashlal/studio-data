@@ -19,6 +19,20 @@
   ],
   "projects": [
     {
+      "id": "mw51onr5bg3iq",
+      "name": "tt theme check",
+      "template": "portfolio",
+      "category": "personal",
+      "client": "tt",
+      "notes": "",
+      "status": "draft",
+      "createdAt": "2026-11-06T14:03:25.890Z",
+      "updatedAt": "2026-11-06T14:03:25.890Z",
+      "version": 0,
+      "summary": "Your Name",
+      "exports": []
+    },
+    {
       "exports": [
         {
           "kind": "github",
