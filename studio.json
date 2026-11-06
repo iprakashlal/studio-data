@@ -19,18 +19,18 @@
   ],
   "projects": [
     {
+      "exports": [],
+      "version": 0,
+      "notes": "",
+      "client": "hey",
+      "status": "draft",
       "id": "mw4lnosz1dask",
       "name": "testing buy",
       "template": "store",
       "category": "personal",
-      "client": "hey",
-      "notes": "",
-      "status": "draft",
       "createdAt": "2026-11-06T06:34:46.739Z",
-      "updatedAt": "2026-11-06T06:34:46.739Z",
-      "version": 0,
-      "summary": "6 products",
-      "exports": []
+      "updatedAt": "2026-11-06T06:35:37.483Z",
+      "summary": "6 products"
     }
   ]
 }

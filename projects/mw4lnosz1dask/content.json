@@ -1,13 +1,13 @@
 {
   "theme": {
-    "bg": "#FAF7F2",
+    "bg": "#FFFBEA",
     "surface": "#FFFFFF",
-    "text": "#1B1A17",
-    "soft": "#6B665D",
-    "line": "#E7E1D6",
-    "accent": "#1F4D3A",
-    "accent2": "#E9B949",
-    "sale": "#B4441B",
+    "text": "#1E1B0E",
+    "soft": "#6E6748",
+    "line": "#EEE6C2",
+    "accent": "#E07A10",
+    "accent2": "#3A7D44",
+    "sale": "#C2410C",
     "fontDisplay": "Fraunces",
     "fontBody": "Manrope",
     "radius": 14
@@ -244,9 +244,9 @@
   },
   "payments": {
     "upi": {
-      "enabled": false,
-      "vpa": "",
-      "payeeName": "",
+      "enabled": true,
+      "vpa": "cskv06@oksbi",
+      "payeeName": "Prakash shop",
       "label": "UPI"
     },
     "razorpay": {
