@@ -359,12 +359,12 @@
   },
   "backend": {
     "enabled": false,
-    "provider": "supabase",
+    "provider": "cloudflare",
     "workerUrl": "",
     "supabaseUrl": "",
     "anonKey": "",
     "accounts": true,
-    "wishlist": true,
+    "wishlist": false,
     "requireLogin": false
   },
   "accountPage": {
