@@ -19,18 +19,31 @@
   ],
   "projects": [
     {
-      "exports": [],
-      "version": 0,
+      "exports": [
+        {
+          "kind": "github",
+          "note": "",
+          "target": "iprakashlal/Myshop",
+          "version": 1,
+          "at": "2026-11-06T07:56:14.185Z"
+        }
+      ],
+      "version": 1,
       "notes": "",
       "client": "hey",
-      "status": "draft",
+      "status": "published",
       "id": "mw4lnosz1dask",
       "name": "testing buy",
       "template": "store",
       "category": "personal",
       "createdAt": "2026-11-06T06:34:46.739Z",
-      "updatedAt": "2026-11-06T07:52:14.388Z",
-      "summary": "6 products"
+      "updatedAt": "2026-11-06T07:56:14.185Z",
+      "summary": "6 products",
+      "publish": {
+        "owner": "iprakashlal",
+        "repo": "Myshop",
+        "branch": "main"
+      }
     }
   ]
 }
