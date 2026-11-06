@@ -17,5 +17,20 @@
       "color": "#F2A541"
     }
   ],
-  "projects": []
+  "projects": [
+    {
+      "id": "mw4lmdcgpr6ho",
+      "name": "test",
+      "template": "portfolio",
+      "category": "shops",
+      "client": "tt",
+      "notes": "",
+      "status": "draft",
+      "createdAt": "2026-11-06T06:33:45.232Z",
+      "updatedAt": "2026-11-06T06:33:45.232Z",
+      "version": 0,
+      "summary": "Your Name",
+      "exports": []
+    }
+  ]
 }
