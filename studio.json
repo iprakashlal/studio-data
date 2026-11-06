@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "personal",
+      "name": "Personal",
+      "color": "#5B7CFF"
+    },
+    {
+      "id": "clients",
+      "name": "Clients",
+      "color": "#3FB97A"
+    },
+    {
+      "id": "shops",
+      "name": "Shops",
+      "color": "#F2A541"
+    }
+  ],
+  "projects": []
+}
