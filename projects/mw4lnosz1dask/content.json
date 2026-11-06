@@ -105,7 +105,7 @@
       "stock": "in",
       "featured": true,
       "badge": "Bestseller",
-      "sample": true
+      "sample": false
     },
     {
       "id": "p2",
@@ -126,7 +126,7 @@
       "stock": "low",
       "featured": true,
       "badge": "",
-      "sample": true
+      "sample": false
     },
     {
       "id": "p3",
@@ -151,7 +151,7 @@
       "stock": "in",
       "featured": true,
       "badge": "New",
-      "sample": true
+      "sample": false
     },
     {
       "id": "p4",
