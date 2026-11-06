@@ -360,7 +360,7 @@
   "backend": {
     "enabled": true,
     "provider": "cloudflare",
-    "workerUrl": "",
+    "workerUrl": "https://shop.<your-subdomain>.workers.dev",
     "supabaseUrl": "",
     "anonKey": "",
     "accounts": true,
