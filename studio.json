@@ -19,18 +19,32 @@
   ],
   "projects": [
     {
+      "id": "mw65nfieyswyw",
+      "name": "infra test",
+      "template": "store",
+      "category": "personal",
+      "client": "pp",
+      "notes": "",
+      "status": "draft",
+      "createdAt": "2026-11-07T08:42:13.190Z",
+      "updatedAt": "2026-11-07T08:42:13.190Z",
+      "version": 0,
+      "summary": "6 products",
+      "exports": []
+    },
+    {
+      "exports": [],
+      "version": 0,
+      "notes": "",
+      "client": "ggh",
+      "status": "draft",
       "id": "mw65ebsoicpra",
       "name": "fgh",
       "template": "portfolio",
       "category": "personal",
-      "client": "ggh",
-      "notes": "",
-      "status": "draft",
       "createdAt": "2026-11-07T08:35:08.472Z",
       "updatedAt": "2026-11-07T08:35:08.472Z",
-      "version": 0,
-      "summary": "Your Name",
-      "exports": []
+      "summary": "Your Name"
     },
     {
       "exports": [],
