@@ -19,18 +19,32 @@
   ],
   "projects": [
     {
+      "id": "mw63y78uv2iud",
+      "name": "motion",
+      "template": "portfolio",
+      "category": "personal",
+      "client": "mm",
+      "notes": "",
+      "status": "draft",
+      "createdAt": "2026-11-07T07:54:36.462Z",
+      "updatedAt": "2026-11-07T07:54:36.462Z",
+      "version": 0,
+      "summary": "Your Name",
+      "exports": []
+    },
+    {
+      "exports": [],
+      "version": 0,
+      "notes": "",
+      "client": "test",
+      "status": "draft",
       "id": "mw52obpo8ek90",
       "name": "test",
       "template": "portfolio",
       "category": "personal",
-      "client": "test",
-      "notes": "",
-      "status": "draft",
       "createdAt": "2026-11-06T14:31:09.900Z",
       "updatedAt": "2026-11-06T14:31:09.900Z",
-      "version": 0,
-      "summary": "Prakash Lal",
-      "exports": []
+      "summary": "Prakash Lal"
     },
     {
       "exports": [],
