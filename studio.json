@@ -19,6 +19,20 @@
   ],
   "projects": [
     {
+      "id": "mw64iq635f2fv",
+      "name": "hh",
+      "template": "portfolio",
+      "category": "personal",
+      "client": "mm",
+      "notes": "",
+      "status": "draft",
+      "createdAt": "2026-11-07T08:10:34.107Z",
+      "updatedAt": "2026-11-07T08:10:34.107Z",
+      "version": 0,
+      "summary": "Your Name",
+      "exports": []
+    },
+    {
       "exports": [],
       "version": 0,
       "notes": "",
