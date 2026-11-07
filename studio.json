@@ -19,18 +19,31 @@
   ],
   "projects": [
     {
-      "exports": [],
-      "version": 0,
+      "exports": [
+        {
+          "kind": "github",
+          "note": "",
+          "target": "iprakashlal/shop2",
+          "version": 1,
+          "at": "2026-11-07T08:47:24.382Z"
+        }
+      ],
+      "version": 1,
       "notes": "",
       "client": "pp",
-      "status": "draft",
+      "status": "published",
       "id": "mw65nfieyswyw",
       "name": "infra test",
       "template": "store",
       "category": "personal",
       "createdAt": "2026-11-07T08:42:13.190Z",
-      "updatedAt": "2026-11-07T08:46:05.310Z",
-      "summary": "6 products"
+      "updatedAt": "2026-11-07T08:47:24.382Z",
+      "summary": "6 products",
+      "publish": {
+        "owner": "iprakashlal",
+        "repo": "shop2",
+        "branch": "main"
+      }
     },
     {
       "exports": [],
