@@ -31,7 +31,7 @@
     "scrollfx": "skew",
     "overlay": "none",
     "deep": "#111111",
-    "motif": "retro"
+    "motif": "cafe"
   },
   "brand": {
     "name": "Fieldnote Goods",
@@ -379,14 +379,14 @@
     "text": "Made in small batches."
   },
   "backend": {
-    "enabled": false,
-    "provider": "supabase",
-    "workerUrl": "",
+    "enabled": true,
+    "provider": "cloudflare",
+    "workerUrl": "https://shop.imprakashlal.workers.dev/",
     "supabaseUrl": "",
     "anonKey": "",
     "accounts": true,
     "wishlist": true,
-    "requireLogin": false
+    "requireLogin": true
   },
   "accountPage": {
     "title": "Your account",
