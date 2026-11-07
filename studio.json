@@ -19,20 +19,6 @@
   ],
   "projects": [
     {
-      "id": "mw63y78uv2iud",
-      "name": "motion",
-      "template": "portfolio",
-      "category": "personal",
-      "client": "mm",
-      "notes": "",
-      "status": "draft",
-      "createdAt": "2026-11-07T07:54:36.462Z",
-      "updatedAt": "2026-11-07T07:54:36.462Z",
-      "version": 0,
-      "summary": "Your Name",
-      "exports": []
-    },
-    {
       "exports": [],
       "version": 0,
       "notes": "",
