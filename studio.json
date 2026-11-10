@@ -17,20 +17,5 @@
       "color": "#F2A541"
     }
   ],
-  "projects": [
-    {
-      "exports": [],
-      "version": 0,
-      "notes": "",
-      "client": "hh",
-      "status": "draft",
-      "id": "mw9gqi1443y1v",
-      "name": "jj",
-      "template": "portfolio",
-      "category": "personal",
-      "createdAt": "2026-11-09T16:15:50.728Z",
-      "updatedAt": "2026-11-09T16:15:50.729Z",
-      "summary": "Your Name"
-    }
-  ]
+  "projects": []
 }
