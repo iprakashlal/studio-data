@@ -31,20 +31,6 @@
       "createdAt": "2026-11-09T16:15:50.728Z",
       "updatedAt": "2026-11-09T16:15:50.729Z",
       "summary": "Your Name"
-    },
-    {
-      "exports": [],
-      "version": 0,
-      "notes": "",
-      "client": "tt",
-      "status": "draft",
-      "id": "mw51onr5bg3iq",
-      "name": "tt theme check",
-      "template": "portfolio",
-      "category": "personal",
-      "createdAt": "2026-11-06T14:03:25.890Z",
-      "updatedAt": "2026-11-06T14:03:25.890Z",
-      "summary": "Your Name"
     }
   ]
 }
