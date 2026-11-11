@@ -49,7 +49,16 @@
     "showAnnouncement": true
   },
   "seo": {
-    "title": "Fieldnote Goods",
+    "titlePattern": "{page} · {site}",
+    "keywords": "",
+    "author": "",
+    "image": null,
+    "siteUrl": "",
+    "themeColor": "",
+    "noindex": false,
+    "googleVerification": "",
+    "meta": [],
+    "title": "Kasa Katha",
     "description": "Small-batch ceramics, linen and paper goods."
   },
   "nav": {

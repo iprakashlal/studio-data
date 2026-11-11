@@ -51,7 +51,7 @@
       "template": "store",
       "category": "clients",
       "createdAt": "2026-11-11T05:55:31.915Z",
-      "updatedAt": "2026-11-11T18:59:41.598Z",
+      "updatedAt": "2026-11-11T19:09:12.521Z",
       "summary": "8 products",
       "publish": {
         "owner": "iprakashlal",
@@ -59,7 +59,7 @@
         "branch": "main"
       },
       "syncedAt": "2026-11-11T18:59:41.598Z",
-      "contentAt": "2026-11-11T18:57:44.654Z",
+      "contentAt": "2026-11-11T19:09:12.521Z",
       "siteSha": "78319230d86949d9984d26e219bb807923df71fa"
     }
   ]
