@@ -14,8 +14,8 @@
     "preset": "gallery",
     "layout": "minimal",
     "nav": "pill",
-    "cards": "flat",
-    "buttons": "outline",
+    "cards": "soft",
+    "buttons": "rounded",
     "motionStyle": "fade",
     "pattern": "none",
     "ornament": "none",
@@ -23,8 +23,8 @@
     "shead": "dot",
     "width": "wide",
     "grid": "3",
-    "product": "overlay",
-    "cursor": "blend",
+    "product": "minimal",
+    "cursor": "dot",
     "loader": "split",
     "textfx": "lines",
     "hoverfx": "lift",
@@ -37,7 +37,9 @@
     "scrollEase": "light",
     "lineBreaks": "typed",
     "deep": "#111111",
-    "motif": "studio"
+    "motif": "studio",
+    "introFont": "display",
+    "introCase": "upper"
   },
   "brand": {
     "name": "KASA KATHA",
