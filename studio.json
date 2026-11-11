@@ -44,20 +44,6 @@
         "repo": "kasa-katha",
         "branch": "main"
       }
-    },
-    {
-      "exports": [],
-      "version": 0,
-      "notes": "",
-      "client": "lal",
-      "status": "draft",
-      "id": "mwb0knln67t9p",
-      "name": "prakash",
-      "template": "portfolio",
-      "category": "clients",
-      "createdAt": "2026-11-10T18:18:56.507Z",
-      "updatedAt": "2026-11-10T18:18:56.507Z",
-      "summary": "Your Name"
     }
   ]
 }
