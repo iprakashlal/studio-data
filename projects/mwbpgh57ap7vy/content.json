@@ -24,7 +24,7 @@
     "width": "wide",
     "grid": "3",
     "product": "overlay",
-    "cursor": "dot",
+    "cursor": "blend",
     "loader": "split",
     "textfx": "lines",
     "hoverfx": "lift",

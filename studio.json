@@ -72,16 +72,16 @@
       "template": "store",
       "category": "clients",
       "createdAt": "2026-11-11T05:55:31.915Z",
-      "updatedAt": "2026-11-11T19:22:19.121Z",
+      "updatedAt": "2026-11-11T19:34:09.052Z",
       "summary": "8 products",
       "publish": {
         "owner": "iprakashlal",
         "repo": "kasa-katha",
         "branch": "main"
       },
-      "syncedAt": "2026-11-11T19:22:19.121Z",
-      "contentAt": "2026-11-11T19:09:12.521Z",
-      "siteSha": "c088a8a27268a3d19d1667f0502d10618e8bbe99"
+      "syncedAt": "2026-11-11T19:34:09.052Z",
+      "contentAt": "2026-11-11T19:34:09.052Z",
+      "siteSha": "cdefc6577f4d19df618fce82c0db4d0db7ae2b69"
     }
   ]
 }
