@@ -19,18 +19,31 @@
   ],
   "projects": [
     {
-      "exports": [],
-      "version": 0,
+      "exports": [
+        {
+          "kind": "github",
+          "note": "",
+          "target": "iprakashlal/kasa-katha",
+          "version": 1,
+          "at": "2026-11-11T05:59:24.706Z"
+        }
+      ],
+      "version": 1,
       "notes": "",
       "client": "Shvi & Jay",
-      "status": "draft",
+      "status": "published",
       "id": "mwbpgh57ap7vy",
       "name": "Kasa Katha",
       "template": "store",
       "category": "clients",
       "createdAt": "2026-11-11T05:55:31.915Z",
-      "updatedAt": "2026-11-11T05:57:32.768Z",
-      "summary": "6 products"
+      "updatedAt": "2026-11-11T05:59:24.706Z",
+      "summary": "6 products",
+      "publish": {
+        "owner": "iprakashlal",
+        "repo": "kasa-katha",
+        "branch": "main"
+      }
     },
     {
       "exports": [],
