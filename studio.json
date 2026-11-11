@@ -19,18 +19,18 @@
   ],
   "projects": [
     {
+      "exports": [],
+      "version": 0,
+      "notes": "",
+      "client": "Shvi & Jay",
+      "status": "draft",
       "id": "mwbpgh57ap7vy",
       "name": "Kasa Katha",
       "template": "store",
       "category": "clients",
-      "client": "Shvi & Jay",
-      "notes": "",
-      "status": "draft",
       "createdAt": "2026-11-11T05:55:31.915Z",
-      "updatedAt": "2026-11-11T05:55:31.915Z",
-      "version": 0,
-      "summary": "6 products",
-      "exports": []
+      "updatedAt": "2026-11-11T05:57:32.768Z",
+      "summary": "6 products"
     },
     {
       "exports": [],
