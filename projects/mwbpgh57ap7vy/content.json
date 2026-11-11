@@ -13,23 +13,29 @@
     "radius": 11,
     "preset": "gallery",
     "layout": "minimal",
-    "nav": "float",
+    "nav": "pill",
     "cards": "flat",
     "buttons": "outline",
     "motionStyle": "fade",
     "pattern": "none",
     "ornament": "none",
     "heading": "upper",
-    "shead": "line",
+    "shead": "dot",
     "width": "wide",
     "grid": "3",
-    "product": "minimal",
+    "product": "overlay",
     "cursor": "dot",
     "loader": "split",
     "textfx": "lines",
     "hoverfx": "lift",
     "scrollfx": "smooth",
     "overlay": "grain",
+    "introBg": "#121070",
+    "introFg": "#e1dfdf",
+    "introTitle": "Kasa Katha",
+    "logoRadius": 50,
+    "scrollEase": "light",
+    "lineBreaks": "typed",
     "deep": "#111111",
     "motif": "studio"
   },
@@ -476,5 +482,14 @@
   "accountPage": {
     "title": "Your account",
     "signInText": "Enter your email and we'll send you a 6-digit code. No password needed."
+  },
+  "labels": {
+    "allProducts": "All products",
+    "viewAll": "View all",
+    "help": "Help",
+    "contact": "Contact"
+  },
+  "cms": {
+    "adminPage": "admin"
   }
 }
