@@ -24,11 +24,18 @@
           "kind": "github",
           "note": "",
           "target": "iprakashlal/kasa-katha",
+          "version": 2,
+          "at": "2026-11-11T18:45:27.465Z"
+        },
+        {
+          "kind": "github",
+          "note": "",
+          "target": "iprakashlal/kasa-katha",
           "version": 1,
           "at": "2026-11-11T05:59:24.706Z"
         }
       ],
-      "version": 1,
+      "version": 2,
       "notes": "",
       "client": "Shvi & Jay",
       "status": "published",
@@ -37,16 +44,16 @@
       "template": "store",
       "category": "clients",
       "createdAt": "2026-11-11T05:55:31.915Z",
-      "updatedAt": "2026-11-11T18:43:53.284Z",
+      "updatedAt": "2026-11-11T18:45:27.465Z",
       "summary": "8 products",
       "publish": {
         "owner": "iprakashlal",
         "repo": "kasa-katha",
         "branch": "main"
       },
-      "syncedAt": "2026-11-11T18:43:26.032Z",
+      "syncedAt": "2026-11-11T18:45:27.465Z",
       "contentAt": "2026-11-11T18:43:26.032Z",
-      "siteSha": "34ec174d81daafc8ec84e6ba418421e31f690533"
+      "siteSha": "8e22126e1852bba0da80fcb6673863d4b88371bc"
     }
   ]
 }
