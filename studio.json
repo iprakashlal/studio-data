@@ -19,18 +19,32 @@
   ],
   "projects": [
     {
+      "id": "mwbpgh57ap7vy",
+      "name": "Kasa Katha",
+      "template": "store",
+      "category": "clients",
+      "client": "Shvi & Jay",
+      "notes": "",
+      "status": "draft",
+      "createdAt": "2026-11-11T05:55:31.915Z",
+      "updatedAt": "2026-11-11T05:55:31.915Z",
+      "version": 0,
+      "summary": "6 products",
+      "exports": []
+    },
+    {
+      "exports": [],
+      "version": 0,
+      "notes": "",
+      "client": "lal",
+      "status": "draft",
       "id": "mwb0knln67t9p",
       "name": "prakash",
       "template": "portfolio",
       "category": "clients",
-      "client": "lal",
-      "notes": "",
-      "status": "draft",
       "createdAt": "2026-11-10T18:18:56.507Z",
       "updatedAt": "2026-11-10T18:18:56.507Z",
-      "version": 0,
-      "summary": "Your Name",
-      "exports": []
+      "summary": "Your Name"
     }
   ]
 }
