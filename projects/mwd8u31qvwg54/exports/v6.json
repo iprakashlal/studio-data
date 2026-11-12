@@ -1,0 +1,650 @@
+{
+  "theme": {
+    "bg": "#F7F052",
+    "surface": "#FFFFFF",
+    "deep": "#111111",
+    "text": "#000000",
+    "soft": "#3A3A3A",
+    "line": "#11053b",
+    "c1": "#E0204F",
+    "c2": "#2D5BFF",
+    "c3": "#111111",
+    "glow": "#E0204F",
+    "fontDisplay": "Fraunces",
+    "fontBody": "DM Sans",
+    "radius": 0,
+    "showGrid": false,
+    "showGlow": false,
+    "showNetwork": false,
+    "show3D": true,
+    "showSolids": true,
+    "showTicker": true,
+    "motion": true,
+    "preset": "brutal-motion",
+    "layout": "split",
+    "nav": "bar",
+    "cards": "brutal",
+    "buttons": "brutal",
+    "motionStyle": "flip",
+    "pattern": "none",
+    "ornament": "solid",
+    "heading": "upper",
+    "shead": "bracket",
+    "width": "normal",
+    "about": "bento",
+    "skills": "cube",
+    "work": "stack",
+    "cursor": "none",
+    "loader": "iris",
+    "textfx": "letters",
+    "hoverfx": "magnetic",
+    "scrollfx": "skew",
+    "overlay": "scanlines",
+    "kit": "classic",
+    "motif": "retro",
+    "beltBg": "#00374a",
+    "beltFg": "#f5ec00",
+    "beltDot": "#E0204F",
+    "introBg": "#11053b",
+    "introFg": "#c2c2c2",
+    "navMode": "hide",
+    "introCase": "upper",
+    "introFont": "body",
+    "beltCustom": true,
+    "beltDotOne": false,
+    "introTitle": "Prakash Lal",
+    "lineBreaks": "typed",
+    "logoRadius": 0,
+    "scrollEase": "light"
+  },
+  "brand": {
+    "logoText": "Prakash Lal",
+    "contactLabel": "Contact",
+    "icon": {
+      "path": "assets/uploads/1794473523838-img-0168.png"
+    },
+    "iconInMenu": true,
+    "iconOnHero": true
+  },
+  "hero": {
+    "eyebrow": "Senior Lead Software Engineer || Bandhan Group (Former Aegon) || ex-Deloitte || ex-UHG · Mumbai",
+    "firstName": "Prakash",
+    "lastName": "Lal",
+    "role": "I design and build *useful things* for people who care about the details",
+    "ctaPrimary": "View the deck ↓",
+    "ctaPrimaryTarget": "work",
+    "ctaSecondary": "LinkedIn ↗",
+    "ctaSecondaryUrl": "https://www.linkedin.com/in/prakashlal",
+    "photo": null,
+    "photoShape": "circle",
+    "meta": [
+      {
+        "label": "Years",
+        "value": "10+"
+      },
+      {
+        "label": "Based in",
+        "value": "Bangalore"
+      }
+    ],
+    "solids": [
+      {
+        "type": "sphere",
+        "color": "c3"
+      },
+      {
+        "type": "cube",
+        "color": "c2"
+      },
+      {
+        "type": "pyramid",
+        "color": "c3"
+      },
+      {
+        "type": "torus",
+        "color": "text"
+      },
+      {
+        "type": "icosahedron",
+        "color": "surface"
+      },
+      {
+        "type": "octahedron",
+        "color": "c1"
+      }
+    ],
+    "discRim": "theme",
+    "discSize": "m",
+    "discImage": null,
+    "discMotion": true
+  },
+  "ticker": [
+    "Engineering Leadership",
+    "Front-end Engineering",
+    "Bussiness Intelligence Calculator"
+  ],
+  "sections": [
+    {
+      "id": "about",
+      "visible": true,
+      "navLabel": "About"
+    },
+    {
+      "id": "skills",
+      "visible": true,
+      "navLabel": "Skills"
+    },
+    {
+      "id": "work",
+      "visible": true,
+      "navLabel": "Work"
+    },
+    {
+      "id": "projects",
+      "visible": false,
+      "navLabel": "Projects"
+    },
+    {
+      "id": "learning",
+      "visible": true,
+      "navLabel": "Learning"
+    },
+    {
+      "id": "contact",
+      "visible": true,
+      "navLabel": "Contact"
+    }
+  ],
+  "about": {
+    "eyebrow": "About",
+    "title": "Built from the basics up.",
+    "lede": "You have it on paper, trust me, I'll make it real!",
+    "storyLabel": "The story",
+    "storyHeading": "I started with *one small project*. Now I help teams ship work they're proud of.",
+    "story": "You have it on paper, trust me, I'll make it real!",
+    "stats": [
+      {
+        "color": "c2",
+        "label": "Years of experience",
+        "shape": "circle",
+        "value": 10,
+        "suffix": "+"
+      },
+      {
+        "color": "glow",
+        "label": "Organizations",
+        "shape": "pill",
+        "value": 6,
+        "suffix": ""
+      }
+    ],
+    "quote": "“Your problems & my solution.”",
+    "quoteLabel": "Working motto",
+    "factsLabel": "Quick facts",
+    "facts": [
+      {
+        "k": "Now",
+        "v": "Bandhan Life"
+      },
+      {
+        "k": "Before",
+        "v": "UHG (Optum)"
+      },
+      {
+        "k": "Focus",
+        "v": "Tech, Game & Music"
+      }
+    ]
+  },
+  "skills": {
+    "eyebrow": "Skills",
+    "title": "Six sides of the build.",
+    "lede": "Drag the cube, or pick a skill to turn it to that face.",
+    "items": [
+      {
+        "tag": "01 / Plan",
+        "body": "Turning goals into a clear plan.",
+        "color": "c1",
+        "shape": "circle",
+        "title": "Strategy",
+        "detail": "Workshops, roadmaps and priorities."
+      },
+      {
+        "tag": "02 / Shape",
+        "body": "Interfaces that feel obvious.",
+        "color": "surface",
+        "shape": "square",
+        "title": "Design",
+        "detail": "Flows, wireframes and visual design."
+      },
+      {
+        "tag": "03 / Build",
+        "body": "Fast, accessible, maintainable.",
+        "color": "c2",
+        "shape": "ring",
+        "title": "Specialist",
+        "detail": "UI Logic, TypeScript, Vue, Angular, Core JS."
+      },
+      {
+        "tag": "04 / Learn",
+        "body": "Decisions backed by real users.",
+        "color": "c3",
+        "shape": "triangle",
+        "title": "Research",
+        "detail": "Interviews, tests and analytics."
+      },
+      {
+        "tag": "05 / Try",
+        "body": "Ideas you can click before you build.",
+        "color": "text",
+        "shape": "hexagon",
+        "title": "Prototyping",
+        "detail": "Quick prototypes to test ideas early."
+      },
+      {
+        "tag": "06 / Ship",
+        "body": "From plan to production, on time.",
+        "color": "surface",
+        "shape": "ring",
+        "title": "Delivery",
+        "detail": "Releases, reviews and measurement."
+      }
+    ]
+  },
+  "work": {
+    "eyebrow": "Work · 2012 → now",
+    "title": "The deck.",
+    "lede": "Each role stacks on the last. Scroll to deal the cards.",
+    "items": [
+      {
+        "art": [
+          {
+            "type": "circle",
+            "color": "c1"
+          },
+          {
+            "type": "square",
+            "color": "c2"
+          },
+          {
+            "type": "triangle",
+            "color": "c3"
+          }
+        ],
+        "org": "Bandhan Life",
+        "color": "surface",
+        "image": null,
+        "title": "Senior Lead Software Engineer",
+        "period": "Nov 2026 – Present",
+        "bullets": [
+          "Senior Lead Software Engineer at Bandhan Life."
+        ],
+        "current": true,
+        "orgNote": "India"
+      },
+      {
+        "art": [
+          {
+            "type": "ring",
+            "color": "text"
+          },
+          {
+            "type": "diamond",
+            "color": "c3"
+          }
+        ],
+        "org": "Bandhan Life",
+        "color": "c1",
+        "image": null,
+        "title": "Lead Software Engineer",
+        "period": "Jul 2022 – Nov 2026",
+        "bullets": [
+          "Lead Frontend Specialist (Former Aegon)"
+        ],
+        "current": false,
+        "orgNote": "India"
+      },
+      {
+        "art": [
+          {
+            "type": "half",
+            "color": "deep"
+          },
+          {
+            "type": "square",
+            "color": "c2"
+          }
+        ],
+        "org": "Optum | United Health Group",
+        "color": "c3",
+        "image": null,
+        "title": "Frontend Software Engineer ll",
+        "period": "Mar 2021 – Jul 2022",
+        "bullets": [
+          "Frontend Software Engineer ll at Optum | United Health Group."
+        ],
+        "current": false,
+        "orgNote": "Gurugram"
+      },
+      {
+        "art": [
+          {
+            "type": "circle",
+            "color": "c1"
+          },
+          {
+            "type": "square",
+            "color": "c2"
+          },
+          {
+            "type": "triangle",
+            "color": "c3"
+          }
+        ],
+        "org": "Deloitte",
+        "color": "surface",
+        "image": null,
+        "title": "Web Developer | Analyst L3",
+        "period": "May 2017 – Feb 2021",
+        "bullets": [
+          "Web Developer"
+        ],
+        "current": false,
+        "orgNote": "Greater Hyderabad Area"
+      },
+      {
+        "art": [
+          {
+            "type": "ring",
+            "color": "text"
+          },
+          {
+            "type": "diamond",
+            "color": "c3"
+          }
+        ],
+        "org": "MindCraft Software Pvt. Ltd.",
+        "color": "c1",
+        "image": null,
+        "title": "Software and Web Developer | Consultant",
+        "period": "Feb 2016 – May 2017",
+        "bullets": [
+          "Mumbai Metropolitan Region"
+        ],
+        "current": false,
+        "orgNote": ""
+      },
+      {
+        "art": [
+          {
+            "type": "half",
+            "color": "deep"
+          },
+          {
+            "type": "square",
+            "color": "c2"
+          }
+        ],
+        "org": "V. K. Lalco Pvt. Ltd.",
+        "color": "c3",
+        "image": null,
+        "title": "Digital Technology Associate",
+        "period": "Nov 2014 – Feb 2016",
+        "bullets": [
+          "Digital Technology Associate at V. K. Lalco Pvt. Ltd.."
+        ],
+        "current": false,
+        "orgNote": "Nariman Point"
+      },
+      {
+        "art": [
+          {
+            "type": "circle",
+            "color": "c1"
+          },
+          {
+            "type": "square",
+            "color": "c2"
+          },
+          {
+            "type": "triangle",
+            "color": "c3"
+          }
+        ],
+        "org": "PicAffectz",
+        "color": "surface",
+        "image": null,
+        "title": "Entrepreneur",
+        "period": "Oct 2012 – Nov 2014",
+        "bullets": [
+          "Mumbai Metropolitan Region",
+          "Web Development & Graphic Designing Venture"
+        ],
+        "current": false,
+        "orgNote": ""
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "Projects",
+    "title": "Selected work.",
+    "lede": "A closer look at things I've built.",
+    "items": []
+  },
+  "learning": {
+    "eyebrow": "Learning",
+    "title": "Education & certifications.",
+    "languagesLabel": "Speaks",
+    "items": [
+      {
+        "sub": "Usha Pravin Gandhi College of Arts, Commerce and Science",
+        "color": "c1",
+        "shape": "circle",
+        "title": "B.Sc. I.T., Web Engineer",
+        "period": "2011 – 2014"
+      },
+      {
+        "sub": "R. D. National College",
+        "color": "c2",
+        "shape": "square",
+        "title": "HSC, Mumbai University",
+        "period": "2009 – 2011"
+      },
+      {
+        "sub": "St. Andrews High School",
+        "color": "c3",
+        "shape": "triangle",
+        "title": "SSC, University of Mumbai",
+        "period": "1999 – 2009"
+      },
+      {
+        "sub": "",
+        "color": "c1",
+        "shape": "circle",
+        "title": "Bachelor Of Science in Information",
+        "period": "Certification"
+      },
+      {
+        "sub": "",
+        "color": "c2",
+        "shape": "square",
+        "title": "Technology",
+        "period": "Certification"
+      },
+      {
+        "sub": "",
+        "color": "c3",
+        "shape": "triangle",
+        "title": "Foundations of User Experience (UX) Design",
+        "period": "Certification"
+      },
+      {
+        "sub": "",
+        "color": "c1",
+        "shape": "circle",
+        "title": "Mastering Typescript",
+        "period": "Certification"
+      }
+    ],
+    "languages": [
+      "Hindi",
+      "Marathi",
+      "English"
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Have a plan? Let's *build it.*",
+    "body": "Open to conversations on engineering leadership, front-end architecture and ambitious product work.",
+    "email": "prakashlal@live.com",
+    "copyLabel": "Copy email",
+    "links": [
+      {
+        "url": "https://www.linkedin.com/in/prakashlal",
+        "label": "LinkedIn"
+      }
+    ],
+    "footerLeft": "© 2026 Prakash Lal",
+    "footerRight": "Circle · Square · Triangle"
+  },
+  "seo": {
+    "titlePattern": "{page} · {site}",
+    "keywords": "prakash, frontend, engineer",
+    "author": "Prakash Lal",
+    "image": {
+      "path": "assets/uploads/1794489249427-2d19c5aa-14c7-4fd6-a856-7e056ce63d9d.png"
+    },
+    "siteUrl": "https://www.prakashlal.in/",
+    "themeColor": "#e52706",
+    "noindex": false,
+    "googleVerification": "",
+    "meta": [],
+    "title": "Prakash Lal · Senior Lead Software Engineer || Bandhan Group",
+    "description": "Software Engineer"
+  },
+  "velocity": {
+    "status": "Available for new projects",
+    "menuLabel": "Menu",
+    "preloader": true,
+    "cursor": true,
+    "marquee": true,
+    "scrollLabel": "Scroll to explore",
+    "portraitShape": "arch",
+    "signature": "Prakash",
+    "signatureFont": "Great Vibes",
+    "signatureImage": null,
+    "nextLabel": "Next up",
+    "nextTitle": "Speaking at a design meetup",
+    "nextDate": "December 2026",
+    "nextUrl": "",
+    "messageLabel": "A note from me",
+    "message": "",
+    "showStory": true,
+    "storyTitle": "Moments",
+    "storyLabel": "Along the way",
+    "stories": [
+      {
+        "year": "2016",
+        "image": null,
+        "caption": "First project shipped"
+      },
+      {
+        "year": "2019",
+        "image": null,
+        "caption": "Led my first team"
+      },
+      {
+        "year": "2022",
+        "image": null,
+        "caption": "Product launch"
+      },
+      {
+        "year": "2024",
+        "image": null,
+        "caption": "Speaking on stage"
+      },
+      {
+        "year": "2026",
+        "image": null,
+        "caption": "New chapter"
+      }
+    ],
+    "quotes": [
+      "Start simple. *Keep shipping.*",
+      "Good work is *a habit*, not an accident."
+    ],
+    "showSplit": true,
+    "split": [
+      {
+        "text": "Roles, results and the teams I've worked with.",
+        "image": null,
+        "title": "the job",
+        "kicker": "On",
+        "target": "work"
+      },
+      {
+        "text": "Side projects, experiments and things I make for fun.",
+        "image": null,
+        "title": "the clock",
+        "kicker": "Off",
+        "target": "projects"
+      }
+    ],
+    "showPartners": true,
+    "partnersKicker": "Worked",
+    "partnersTitle": "with",
+    "partnersText": "Teams, clients and brands I've built things with.",
+    "partners": [
+      {
+        "url": "",
+        "logo": null,
+        "name": "Company One"
+      },
+      {
+        "url": "",
+        "logo": null,
+        "name": "Company Two"
+      },
+      {
+        "url": "",
+        "logo": null,
+        "name": "Studio Three"
+      },
+      {
+        "url": "",
+        "logo": null,
+        "name": "Agency Four"
+      },
+      {
+        "url": "",
+        "logo": null,
+        "name": "Brand Five"
+      },
+      {
+        "url": "",
+        "logo": null,
+        "name": "Lab Six"
+      }
+    ],
+    "footerTagline": "Always building *the next thing.*",
+    "backToTop": "Back to top"
+  },
+  "cms": {
+    "adminPage": "admin"
+  },
+  "labels": {
+    "scrollHint": "Scroll to discover",
+    "project": "Project",
+    "available": "Available",
+    "dragHint": "Drag to explore",
+    "listView": "List view",
+    "canvasView": "Canvas view",
+    "close": "Close",
+    "scenes": "A portfolio in {n} scenes",
+    "stickerHint": "Grab a sticker and move it around.",
+    "edition": "Portfolio edition",
+    "inThisEdition": "In this edition",
+    "classifieds": "Classifieds",
+    "letters": "Letters to the editor"
+  }
+}
