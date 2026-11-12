@@ -24,19 +24,34 @@
   ],
   "projects": [
     {
-      "exports": [],
-      "version": 0,
+      "exports": [
+        {
+          "kind": "github",
+          "note": "",
+          "target": "iprakashlal/hisham",
+          "version": 1,
+          "at": "2026-11-12T16:51:35.436Z"
+        }
+      ],
+      "version": 1,
       "notes": "",
       "client": "Hisham",
-      "status": "draft",
+      "status": "published",
       "id": "mwds6pjtj0qxu",
       "name": "Hisham",
       "template": "portfolio",
       "category": "clients",
       "createdAt": "2026-11-12T16:47:27.449Z",
-      "updatedAt": "2026-11-12T16:49:37.629Z",
+      "updatedAt": "2026-11-12T16:51:35.436Z",
       "contentAt": "2026-11-12T16:49:37.629Z",
-      "summary": "Hisham Sait"
+      "summary": "Hisham Sait",
+      "publish": {
+        "owner": "iprakashlal",
+        "repo": "hisham",
+        "branch": "main"
+      },
+      "siteSha": "458b4b6a4f7502cf0ae2287a36d379d573b143c5",
+      "syncedAt": "2026-11-12T16:51:35.436Z"
     },
     {
       "exports": [
