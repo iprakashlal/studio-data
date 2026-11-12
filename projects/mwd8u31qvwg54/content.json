@@ -157,11 +157,11 @@
   ],
   "about": {
     "eyebrow": "About",
-    "title": "Built from the basics up.",
-    "lede": "You have it on paper, trust me, I'll make it real!",
+    "title": "Basics to Engineering",
+    "lede": "",
     "storyLabel": "The story",
-    "storyHeading": "I started with *one small project*. Now I help teams ship work they're proud of.",
-    "story": "You have it on paper, trust me, I'll make it real!",
+    "storyHeading": "You have it on *paper*, trust me, I'll make it *real*!",
+    "story": "Great things take time",
     "stats": [
       {
         "color": "c2",
@@ -178,13 +178,13 @@
         "suffix": ""
       }
     ],
-    "quote": "“Your problems & my solution.”",
-    "quoteLabel": "Working motto",
+    "quote": "“Your problems will love my solution.”",
+    "quoteLabel": "Motto of my ship",
     "factsLabel": "Quick facts",
     "facts": [
       {
         "k": "Now",
-        "v": "Bandhan Life"
+        "v": "Bandhan Life (Former Aegon Life)"
       },
       {
         "k": "Before",
