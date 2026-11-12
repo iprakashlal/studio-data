@@ -181,5 +181,10 @@
       "contentAt": "2026-11-12T09:36:05.227Z",
       "siteSha": "720b604c07b7458437094b4e58dc9d2d04bb3546"
     }
-  ]
+  ],
+  "brand": {
+    "name": "Picaffectz Studio",
+    "v": 1794499314978,
+    "logo": "studio-assets/logo.png"
+  }
 }
