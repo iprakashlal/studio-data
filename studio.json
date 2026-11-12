@@ -19,19 +19,34 @@
   ],
   "projects": [
     {
-      "exports": [],
-      "version": 0,
+      "exports": [
+        {
+          "kind": "github",
+          "note": "",
+          "target": "iprakashlal/explore",
+          "version": 1,
+          "at": "2026-11-12T08:15:53.172Z"
+        }
+      ],
+      "version": 1,
       "notes": "",
       "client": "Self",
-      "status": "draft",
+      "status": "published",
       "id": "mwd8u31qvwg54",
       "name": "Prakash Lal",
       "template": "portfolio",
       "category": "personal",
       "createdAt": "2026-11-12T07:45:45.710Z",
-      "updatedAt": "2026-11-12T08:15:17.333Z",
+      "updatedAt": "2026-11-12T08:15:53.172Z",
       "contentAt": "2026-11-12T08:15:17.333Z",
-      "summary": "Prakash Lal"
+      "summary": "Prakash Lal",
+      "publish": {
+        "owner": "iprakashlal",
+        "repo": "explore",
+        "branch": "main"
+      },
+      "siteSha": "dd5f9f929b48c59d3cb39a02f8226ac9ff3ccf64",
+      "syncedAt": "2026-11-12T08:15:53.172Z"
     },
     {
       "exports": [
