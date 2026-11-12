@@ -44,26 +44,40 @@
     "motif": "ocean",
     "introBg": "#0A121A",
     "introFg": "#FFFFFF",
-    "kit": "classic"
+    "kit": "classic",
+    "introTitle": "Anubhav Verma",
+    "introFont": "display",
+    "introCase": "upper",
+    "logoRadius": 22,
+    "beltCustom": false,
+    "beltBg": "#EAF4FB",
+    "beltFg": "#111111",
+    "beltDotOne": false,
+    "beltDot": "#A5D8FF",
+    "scrollEase": "light",
+    "lineBreaks": "typed"
   },
   "brand": {
-    "logoText": "Your Name",
-    "contactLabel": "Contact"
+    "logoText": "Anubhav Verma",
+    "contactLabel": "Contact",
+    "icon": null,
+    "iconInMenu": true,
+    "iconOnHero": true
   },
   "hero": {
-    "eyebrow": "Product Designer · Your City",
-    "firstName": "Your",
-    "lastName": "Name",
+    "eyebrow": "Systems Engineer · Bengaluru",
+    "firstName": "Anubhav",
+    "lastName": "Verma",
     "role": "I design and build *useful things* for people who care about the details.",
     "ctaPrimary": "View the deck ↓",
     "ctaPrimaryTarget": "work",
     "ctaSecondary": "LinkedIn ↗",
-    "ctaSecondaryUrl": "https://www.linkedin.com/",
+    "ctaSecondaryUrl": "https://www.linkedin.com/in/anubhav-verma-50a7331b0",
     "photo": null,
     "photoShape": "circle",
     "meta": [
       {
-        "value": "8+",
+        "value": "6+",
         "label": "Years"
       },
       {
@@ -71,7 +85,7 @@
         "label": "Projects"
       },
       {
-        "value": "Your City",
+        "value": "Bengaluru",
         "label": "Based in"
       }
     ],
@@ -100,15 +114,16 @@
         "type": "octahedron",
         "color": "c1"
       }
-    ]
+    ],
+    "discImage": null,
+    "discRim": "theme",
+    "discSize": "m",
+    "discMotion": true
   },
   "ticker": [
-    "Strategy",
-    "Design",
-    "Front-end",
-    "Research",
-    "Prototyping",
-    "Delivery"
+    "Troubleshooting",
+    "Incident Management",
+    "Amazon Web Services (AWS)"
   ],
   "sections": [
     {
@@ -148,10 +163,10 @@
     "lede": "A short line about the path that got you here.",
     "storyLabel": "The story",
     "storyHeading": "I started with *one small project*. Now I help teams ship work they're proud of.",
-    "story": "Write two or three short paragraphs about where you started and what you learned along the way.\n\nThen say what you care about in your work and the kind of problems you like to solve.",
+    "story": "Experienced Splunk Administrator managing and troubleshooting production environment issues, ensuring smooth monitoring , administration and resolution of production issues. Skilled in working with Azure-integrated Splunk environments, handling various Azure services like Virtual Machines (VMs), Logic Apps, VMSS, Storage, and network-related services.\n\nProficient in onboarding indexes in Splunk, creating alerts, and configuring saved searches as per stakeholder requirements. Experienced in user access management and enforcing compliance policies to ensure adherence to security standards. I focus on maintaining a stable, responsive environment, adhering to strict timelines to meet stakeholder expectations.\n\nStrong knowledge of Incident, Problem, and Change Management processes, ensuring minimal downtime and swift issue resolution. Skilled in working within multiple team environments, effectively syncing with live progress on requirements. Adept at handling adhoc requirements under pressure and delivering timely solutions for business needs.\n\nPassionate about leveraging my technical expertise and experience to optimize processes, enhance system reliability, and drive business success.",
     "stats": [
       {
-        "value": 8,
+        "value": 6,
         "suffix": "+",
         "label": "Years of experience",
         "color": "c1",
@@ -243,21 +258,20 @@
     ]
   },
   "work": {
-    "eyebrow": "Work · 2012 → now",
+    "eyebrow": "Work · 2020 → now",
     "title": "The deck.",
     "lede": "Each role stacks on the last. Scroll to deal the cards.",
     "items": [
       {
-        "period": "2022 – Present",
-        "title": "Senior Designer",
-        "org": "Company One",
-        "orgNote": "City",
+        "period": "Sep 2023 – Present",
+        "title": "System Engineer",
+        "org": "Shell",
+        "orgNote": "Bengaluru",
         "current": true,
         "color": "surface",
         "image": null,
         "bullets": [
-          "What you lead and the results it brought.",
-          "A second highlight with a number if you have one."
+          "Deloitte USI"
         ],
         "art": [
           {
@@ -275,15 +289,15 @@
         ]
       },
       {
-        "period": "2019 – 2022",
-        "title": "Designer",
-        "org": "Company Two",
-        "orgNote": "City",
+        "period": "Apr 2023 – Aug 2023",
+        "title": "Analyst",
+        "org": "Shell",
+        "orgNote": "Bengaluru",
         "current": false,
         "color": "c1",
         "image": null,
         "bullets": [
-          "What you built and who used it."
+          "Deloitte India (Offices of the US)"
         ],
         "art": [
           {
@@ -297,15 +311,15 @@
         ]
       },
       {
-        "period": "2016 – 2019",
-        "title": "Junior Designer",
-        "org": "Company Three",
-        "orgNote": "City",
+        "period": "Aug 2020 – Apr 2023",
+        "title": "Associate Analyst",
+        "org": "Shell",
+        "orgNote": "",
         "current": false,
         "color": "c3",
         "image": null,
         "bullets": [
-          "Where you started and what you learned."
+          "Associate Analyst at Shell."
         ],
         "art": [
           {
@@ -332,25 +346,39 @@
     "languagesLabel": "Speaks",
     "items": [
       {
-        "period": "2012 – 2016",
-        "title": "Your degree",
-        "sub": "Your university",
+        "period": "Certification",
+        "title": "Splunk Core Certified Power User",
+        "sub": "",
         "shape": "circle",
         "color": "c1"
       },
       {
         "period": "Certification",
-        "title": "A certification",
-        "sub": "Issuer",
+        "title": "SRE Foundation Certified",
+        "sub": "",
         "shape": "square",
         "color": "c2"
       },
       {
-        "period": "Course",
-        "title": "A course you took",
-        "sub": "Provider",
+        "period": "Certification",
+        "title": "Microsoft Certified: Azure",
+        "sub": "",
         "shape": "triangle",
         "color": "c3"
+      },
+      {
+        "period": "Certification",
+        "title": "Fundamentals",
+        "sub": "",
+        "shape": "circle",
+        "color": "c1"
+      },
+      {
+        "period": "Certification",
+        "title": "Splunk Core Certified User",
+        "sub": "",
+        "shape": "square",
+        "color": "c2"
       }
     ],
     "languages": [
@@ -366,7 +394,7 @@
     "links": [
       {
         "label": "LinkedIn",
-        "url": "https://www.linkedin.com/"
+        "url": "https://www.linkedin.com/in/anubhav-verma-50a7331b0"
       },
       {
         "label": "GitHub",
@@ -377,21 +405,21 @@
         "url": "mailto:hello@example.com"
       }
     ],
-    "footerLeft": "© 2026 Your Name",
+    "footerLeft": "© 2026 Anubhav Verma",
     "footerRight": "Circle · Square · Triangle"
   },
   "seo": {
-    "title": "Your Name · Portfolio",
-    "description": "Portfolio of Your Name: strategy, design and front-end.",
     "titlePattern": "{page} · {site}",
     "keywords": "",
-    "author": "",
+    "author": "Anubhav Verma",
     "image": null,
     "siteUrl": "",
     "themeColor": "",
     "noindex": false,
     "googleVerification": "",
-    "meta": []
+    "meta": [],
+    "title": "Anubhav Verma · Systems Engineer",
+    "description": "Experienced Splunk Administrator managing and troubleshooting production environment issues, ensuring smooth monitoring , administration and resolution…"
   },
   "velocity": {
     "status": "Available for new projects",
@@ -401,7 +429,7 @@
     "marquee": true,
     "scrollLabel": "Scroll to explore",
     "portraitShape": "arch",
-    "signature": "",
+    "signature": "Anubhav",
     "signatureFont": "Great Vibes",
     "signatureImage": null,
     "nextLabel": "Next up",
@@ -499,5 +527,23 @@
     ],
     "footerTagline": "Always building *the next thing.*",
     "backToTop": "Back to top"
+  },
+  "labels": {
+    "scrollHint": "Scroll to discover",
+    "project": "Project",
+    "available": "Available",
+    "dragHint": "Drag to explore",
+    "listView": "List view",
+    "canvasView": "Canvas view",
+    "close": "Close",
+    "scenes": "A portfolio in {n} scenes",
+    "stickerHint": "Grab a sticker and move it around.",
+    "edition": "Portfolio edition",
+    "inThisEdition": "In this edition",
+    "classifieds": "Classifieds",
+    "letters": "Letters to the editor"
+  },
+  "cms": {
+    "adminPage": "admin"
   }
 }

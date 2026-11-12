@@ -24,19 +24,19 @@
   ],
   "projects": [
     {
+      "exports": [],
+      "version": 0,
+      "notes": "",
+      "client": "Anubhav",
+      "status": "draft",
       "id": "mwdsocbw5eehy",
       "name": "Anubhav",
       "template": "portfolio",
       "category": "clients",
-      "client": "Anubhav",
-      "notes": "",
-      "status": "draft",
       "createdAt": "2026-11-12T17:01:10.124Z",
-      "updatedAt": "2026-11-12T17:01:10.124Z",
-      "contentAt": "2026-11-12T17:01:10.124Z",
-      "version": 0,
-      "summary": "Your Name",
-      "exports": []
+      "updatedAt": "2026-11-12T17:05:16.865Z",
+      "contentAt": "2026-11-12T17:05:16.865Z",
+      "summary": "Anubhav Verma"
     },
     {
       "exports": [
