@@ -24,19 +24,19 @@
   ],
   "projects": [
     {
+      "exports": [],
+      "version": 0,
+      "notes": "",
+      "client": "Hisham",
+      "status": "draft",
       "id": "mwds6pjtj0qxu",
       "name": "Hisham",
       "template": "portfolio",
       "category": "clients",
-      "client": "Hisham",
-      "notes": "",
-      "status": "draft",
       "createdAt": "2026-11-12T16:47:27.449Z",
-      "updatedAt": "2026-11-12T16:47:27.449Z",
-      "contentAt": "2026-11-12T16:47:27.449Z",
-      "version": 0,
-      "summary": "Your Name",
-      "exports": []
+      "updatedAt": "2026-11-12T16:49:37.629Z",
+      "contentAt": "2026-11-12T16:49:37.629Z",
+      "summary": "Hisham Sait"
     },
     {
       "exports": [

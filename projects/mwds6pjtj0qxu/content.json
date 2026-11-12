@@ -1,69 +1,83 @@
 {
   "theme": {
-    "bg": "#F6F1E7",
-    "surface": "#FFFDF8",
-    "deep": "#1A1712",
-    "text": "#1A1712",
-    "soft": "#6B645A",
-    "line": "#E2DACB",
-    "c1": "#1A1712",
-    "c2": "#9E2B25",
-    "c3": "#B89A62",
-    "glow": "#1A1712",
-    "fontDisplay": "Playfair Display",
-    "fontBody": "Source Serif 4",
-    "radius": 0,
+    "bg": "#071233",
+    "surface": "#0C1B47",
+    "deep": "#040A1F",
+    "text": "#EEF2FF",
+    "soft": "#9DAAD6",
+    "line": "#22356E",
+    "c1": "#3D7BFF",
+    "c2": "#FFC857",
+    "c3": "#79E2FF",
+    "glow": "#79E2FF",
+    "fontDisplay": "Unbounded",
+    "fontBody": "Manrope",
+    "radius": 16,
     "showGrid": true,
-    "showGlow": false,
-    "showNetwork": false,
-    "show3D": false,
+    "showGlow": true,
+    "showNetwork": true,
+    "show3D": true,
     "showSolids": true,
-    "showTicker": false,
+    "showTicker": true,
     "motion": true,
-    "preset": "folio",
-    "layout": "editorial",
-    "nav": "line",
-    "cards": "lined",
-    "buttons": "underline",
-    "motionStyle": "mask",
-    "pattern": "lines",
-    "ornament": "outline",
-    "heading": "italic",
-    "shead": "roman",
-    "width": "narrow",
-    "about": "columns",
-    "skills": "rows",
-    "work": "timeline",
-    "cursor": "dot",
-    "loader": "wipe",
-    "textfx": "lines",
-    "hoverfx": "shine",
-    "scrollfx": "smooth",
-    "overlay": "paper",
-    "heroArt": "circle",
-    "motif": "geometric",
-    "introBg": "#1A1712",
+    "preset": "cobalt-studio",
+    "layout": "bento",
+    "nav": "pill",
+    "cards": "gradient",
+    "buttons": "gradient",
+    "motionStyle": "skew",
+    "pattern": "rings",
+    "ornament": "solid",
+    "heading": "upper",
+    "shead": "pill",
+    "width": "normal",
+    "about": "bento",
+    "skills": "cube",
+    "work": "grid",
+    "cursor": "ring",
+    "loader": "counter",
+    "textfx": "letters",
+    "hoverfx": "magnetic",
+    "scrollfx": "skew",
+    "overlay": "none",
+    "heroArt": "tilt",
+    "motif": "tech",
+    "introBg": "#040A1F",
     "introFg": "#FFFFFF",
-    "kit": "classic"
+    "kit": "classic",
+    "introTitle": "Hisham Sait",
+    "introFont": "display",
+    "introCase": "upper",
+    "logoRadius": 22,
+    "beltCustom": false,
+    "beltBg": "#1A1712",
+    "beltFg": "#FFFFFF",
+    "beltDotOne": false,
+    "beltDot": "#1A1712",
+    "scrollEase": "light",
+    "lineBreaks": "typed"
   },
   "brand": {
-    "logoText": "Your Name",
-    "contactLabel": "Contact"
+    "logoText": "Hisham Sait",
+    "contactLabel": "Contact",
+    "icon": null,
+    "iconInMenu": true,
+    "iconOnHero": true
   },
   "hero": {
-    "eyebrow": "Product Designer · Your City",
-    "firstName": "Your",
-    "lastName": "Name",
+    "eyebrow": "Technologist · Dublin",
+    "firstName": "Hisham",
+    "lastName": "Sait",
     "role": "I design and build *useful things* for people who care about the details.",
     "ctaPrimary": "View the deck ↓",
     "ctaPrimaryTarget": "work",
     "ctaSecondary": "LinkedIn ↗",
-    "ctaSecondaryUrl": "https://www.linkedin.com/",
+    "ctaSecondaryUrl": "https://www.linkedin.com/in/hishamsait",
     "photo": null,
     "photoShape": "circle",
     "meta": [
       {
-        "value": "8+",
+        "value": "18+",
         "label": "Years"
       },
       {
@@ -71,7 +85,7 @@
         "label": "Projects"
       },
       {
-        "value": "Your City",
+        "value": "Dublin",
         "label": "Based in"
       }
     ],
@@ -100,15 +114,16 @@
         "type": "octahedron",
         "color": "c1"
       }
-    ]
+    ],
+    "discImage": null,
+    "discRim": "theme",
+    "discSize": "m",
+    "discMotion": true
   },
   "ticker": [
-    "Strategy",
-    "Design",
-    "Front-end",
-    "Research",
-    "Prototyping",
-    "Delivery"
+    "Digital Transformation",
+    "Enterprise Consulting",
+    "Small Business Consulting"
   ],
   "sections": [
     {
@@ -145,13 +160,13 @@
   "about": {
     "eyebrow": "About",
     "title": "Built from the basics up.",
-    "lede": "A short line about the path that got you here.",
+    "lede": "Creative, confident, and highly motivated marketing professional, with over 12 years experience.",
     "storyLabel": "The story",
     "storyHeading": "I started with *one small project*. Now I help teams ship work they're proud of.",
-    "story": "Write two or three short paragraphs about where you started and what you learned along the way.\n\nThen say what you care about in your work and the kind of problems you like to solve.",
+    "story": "Creative, confident, and highly motivated marketing professional, with over 12 years experience. Background in Management, Computers & Engineering encompasses exceptional work ethic & commitment to achieve organizational objectives. A proactive manager, a team builder, a tactical planner and fast a learner with ability to attract key players in building strong and lasting business relationships. Flexible & versatile, can transcend cultural differences. Poised, competent and energetic under pressure, while maintaining humour.",
     "stats": [
       {
-        "value": 8,
+        "value": 18,
         "suffix": "+",
         "label": "Years of experience",
         "color": "c1",
@@ -243,21 +258,20 @@
     ]
   },
   "work": {
-    "eyebrow": "Work · 2012 → now",
+    "eyebrow": "Work · 2008 → now",
     "title": "The deck.",
     "lede": "Each role stacks on the last. Scroll to deal the cards.",
     "items": [
       {
-        "period": "2022 – Present",
-        "title": "Senior Designer",
-        "org": "Company One",
-        "orgNote": "City",
+        "period": "Jun 2022 – Present",
+        "title": "Marketing & Digital",
+        "org": "Bradán Accountants",
+        "orgNote": "Galway",
         "current": true,
         "color": "surface",
         "image": null,
         "bullets": [
-          "What you lead and the results it brought.",
-          "A second highlight with a number if you have one."
+          "SeeGap"
         ],
         "art": [
           {
@@ -275,15 +289,15 @@
         ]
       },
       {
-        "period": "2019 – 2022",
-        "title": "Designer",
-        "org": "Company Two",
-        "orgNote": "City",
-        "current": false,
+        "period": "Oct 2023 – Present",
+        "title": "Co-Founder",
+        "org": "Bradán Accountants",
+        "orgNote": "Limerick",
+        "current": true,
         "color": "c1",
         "image": null,
         "bullets": [
-          "What you built and who used it."
+          "Napoli Italian Restaurants Group"
         ],
         "art": [
           {
@@ -297,15 +311,15 @@
         ]
       },
       {
-        "period": "2016 – 2019",
-        "title": "Junior Designer",
-        "org": "Company Three",
-        "orgNote": "City",
+        "period": "Feb 2021 – May 2022",
+        "title": "Marketing Director",
+        "org": "Bradán Accountants",
+        "orgNote": "Dublin",
         "current": false,
         "color": "c3",
         "image": null,
         "bullets": [
-          "Where you started and what you learned."
+          "ServiceDock"
         ],
         "art": [
           {
@@ -315,6 +329,124 @@
           {
             "type": "square",
             "color": "c2"
+          }
+        ]
+      },
+      {
+        "period": "Feb 2020 – Oct 2020",
+        "title": "Digital Contractor",
+        "org": "Bradán Accountants",
+        "orgNote": "County Dublin",
+        "current": false,
+        "color": "surface",
+        "image": null,
+        "bullets": [
+          "Digital Contractor at Bradán Accountants."
+        ],
+        "art": [
+          {
+            "type": "circle",
+            "color": "c1"
+          },
+          {
+            "type": "square",
+            "color": "c2"
+          },
+          {
+            "type": "triangle",
+            "color": "c3"
+          }
+        ]
+      },
+      {
+        "period": "Jun 2017 – Jun 2019",
+        "title": "Senior Manager - Marketing & Alliances",
+        "org": "C Ahead Technologies Inc",
+        "orgNote": "Mumbai",
+        "current": false,
+        "color": "c1",
+        "image": null,
+        "bullets": [
+          "Senior Manager - Marketing & Alliances at C Ahead Technologies Inc."
+        ],
+        "art": [
+          {
+            "type": "ring",
+            "color": "text"
+          },
+          {
+            "type": "diamond",
+            "color": "c3"
+          }
+        ]
+      },
+      {
+        "period": "Mar 2015 – Jun 2017",
+        "title": "Digital Strategist",
+        "org": "C Ahead Technologies Inc",
+        "orgNote": "Mumbai",
+        "current": false,
+        "color": "c3",
+        "image": null,
+        "bullets": [
+          "Rotary Power"
+        ],
+        "art": [
+          {
+            "type": "half",
+            "color": "deep"
+          },
+          {
+            "type": "square",
+            "color": "c2"
+          }
+        ]
+      },
+      {
+        "period": "Jul 2014 – Jan 2015",
+        "title": "Market Research Analyst",
+        "org": "C Ahead Technologies Inc",
+        "orgNote": "Newcastle upon Tyne",
+        "current": false,
+        "color": "surface",
+        "image": null,
+        "bullets": [
+          "Hotel Le Grandé Mumbai"
+        ],
+        "art": [
+          {
+            "type": "circle",
+            "color": "c1"
+          },
+          {
+            "type": "square",
+            "color": "c2"
+          },
+          {
+            "type": "triangle",
+            "color": "c3"
+          }
+        ]
+      },
+      {
+        "period": "Aug 2008 – Aug 2013",
+        "title": "Marketing Manager",
+        "org": "C Ahead Technologies Inc",
+        "orgNote": "Mumbai",
+        "current": false,
+        "color": "c1",
+        "image": null,
+        "bullets": [
+          "Marketing Manager at C Ahead Technologies Inc."
+        ],
+        "art": [
+          {
+            "type": "ring",
+            "color": "text"
+          },
+          {
+            "type": "diamond",
+            "color": "c3"
           }
         ]
       }
@@ -354,7 +486,12 @@
       }
     ],
     "languages": [
-      "English"
+      "English",
+      "Hindi",
+      "Malayalam",
+      "Marathi",
+      "Gujarati",
+      "Kutchi"
     ]
   },
   "contact": {
@@ -366,7 +503,7 @@
     "links": [
       {
         "label": "LinkedIn",
-        "url": "https://www.linkedin.com/"
+        "url": "https://www.linkedin.com/in/hishamsait"
       },
       {
         "label": "GitHub",
@@ -377,21 +514,21 @@
         "url": "mailto:hello@example.com"
       }
     ],
-    "footerLeft": "© 2026 Your Name",
+    "footerLeft": "© 2026 Hisham Sait",
     "footerRight": "Circle · Square · Triangle"
   },
   "seo": {
-    "title": "Your Name · Portfolio",
-    "description": "Portfolio of Your Name: strategy, design and front-end.",
     "titlePattern": "{page} · {site}",
     "keywords": "",
-    "author": "",
+    "author": "Hisham Sait",
     "image": null,
     "siteUrl": "",
     "themeColor": "",
     "noindex": false,
     "googleVerification": "",
-    "meta": []
+    "meta": [],
+    "title": "Hisham Sait · Technologist",
+    "description": "Creative, confident, and highly motivated marketing professional, with over 12 years experience. Background in Management, Computers & Engineering…"
   },
   "velocity": {
     "status": "Available for new projects",
@@ -401,7 +538,7 @@
     "marquee": true,
     "scrollLabel": "Scroll to explore",
     "portraitShape": "arch",
-    "signature": "",
+    "signature": "Hisham",
     "signatureFont": "Great Vibes",
     "signatureImage": null,
     "nextLabel": "Next up",
@@ -499,5 +636,23 @@
     ],
     "footerTagline": "Always building *the next thing.*",
     "backToTop": "Back to top"
+  },
+  "labels": {
+    "scrollHint": "Scroll to discover",
+    "project": "Project",
+    "available": "Available",
+    "dragHint": "Drag to explore",
+    "listView": "List view",
+    "canvasView": "Canvas view",
+    "close": "Close",
+    "scenes": "A portfolio in {n} scenes",
+    "stickerHint": "Grab a sticker and move it around.",
+    "edition": "Portfolio edition",
+    "inThisEdition": "In this edition",
+    "classifieds": "Classifieds",
+    "letters": "Letters to the editor"
+  },
+  "cms": {
+    "adminPage": "admin"
   }
 }
