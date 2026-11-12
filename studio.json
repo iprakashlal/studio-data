@@ -29,11 +29,18 @@
           "kind": "github",
           "note": "",
           "target": "iprakashlal/anubhav",
+          "version": 2,
+          "at": "2026-11-12T18:10:12.392Z"
+        },
+        {
+          "kind": "github",
+          "note": "",
+          "target": "iprakashlal/anubhav",
           "version": 1,
           "at": "2026-11-12T17:05:40.714Z"
         }
       ],
-      "version": 1,
+      "version": 2,
       "notes": "",
       "client": "Anubhav",
       "status": "published",
@@ -42,7 +49,7 @@
       "template": "portfolio",
       "category": "clients",
       "createdAt": "2026-11-12T17:01:10.124Z",
-      "updatedAt": "2026-11-12T18:09:45.066Z",
+      "updatedAt": "2026-11-12T18:10:12.392Z",
       "contentAt": "2026-11-12T18:09:45.066Z",
       "summary": "Anubhav Verma",
       "publish": {
@@ -50,8 +57,8 @@
         "repo": "anubhav",
         "branch": "main"
       },
-      "siteSha": "eb75395ff8b57b9bd335a1eee4ba409a987a2001",
-      "syncedAt": "2026-11-12T17:05:40.714Z"
+      "siteSha": "8f5defba0f7eac415f82bc9a98db2f9f6d2ca000",
+      "syncedAt": "2026-11-12T18:10:12.392Z"
     },
     {
       "exports": [
