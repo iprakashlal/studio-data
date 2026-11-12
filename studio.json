@@ -89,6 +89,13 @@
           "kind": "netlify",
           "note": "",
           "target": "prakashlal",
+          "version": 7,
+          "at": "2026-11-12T17:37:49.375Z"
+        },
+        {
+          "kind": "netlify",
+          "note": "",
+          "target": "prakashlal",
           "version": 6,
           "at": "2026-11-12T16:40:30.584Z"
         },
@@ -128,7 +135,7 @@
           "at": "2026-11-12T08:15:53.172Z"
         }
       ],
-      "version": 6,
+      "version": 7,
       "notes": "",
       "client": "Self",
       "status": "published",
@@ -137,7 +144,7 @@
       "template": "portfolio",
       "category": "personal",
       "createdAt": "2026-11-12T07:45:45.710Z",
-      "updatedAt": "2026-11-12T17:36:48.049Z",
+      "updatedAt": "2026-11-12T17:37:49.375Z",
       "contentAt": "2026-11-12T17:36:48.049Z",
       "summary": "Prakash Lal",
       "publish": {
@@ -145,8 +152,8 @@
         "repo": "explore",
         "branch": "main"
       },
-      "siteSha": "v8",
-      "syncedAt": "2026-11-12T16:40:30.584Z",
+      "siteSha": "v9",
+      "syncedAt": "2026-11-12T17:37:49.375Z",
       "host": {
         "kind": "netlify",
         "siteId": "a096b46e-ddf3-4756-92ef-10e08986b54c",
