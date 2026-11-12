@@ -4,14 +4,16 @@
   },
   "seo": {
     "meta": [],
-    "image": null,
+    "image": {
+      "path": "assets/uploads/1794489249427-2d19c5aa-14c7-4fd6-a856-7e056ce63d9d.png"
+    },
     "title": "Prakash Lal · Senior Lead Software Engineer || Bandhan Group (Former A",
     "author": "Prakash Lal",
     "noindex": false,
-    "siteUrl": "",
-    "keywords": "",
-    "themeColor": "",
-    "description": "You have it on paper, trust me, I'll make it real!",
+    "siteUrl": "https://www.prakashlal.in/",
+    "keywords": "prakash, frontend, engineer",
+    "themeColor": "#e52706",
+    "description": "Software Engineer",
     "titlePattern": "{page} · {site}",
     "googleVerification": ""
   },
