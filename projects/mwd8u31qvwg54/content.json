@@ -130,7 +130,7 @@
     },
     {
       "id": "projects",
-      "visible": true,
+      "visible": false,
       "navLabel": "Projects"
     },
     {
@@ -212,11 +212,11 @@
       },
       {
         "tag": "03 / Build",
-        "title": "Front-end",
+        "title": "Specialist",
         "body": "Fast, accessible, maintainable.",
-        "detail": "HTML, CSS, TypeScript and React.",
+        "detail": "UI Logic, TypeScript, Vue, Angular, Core JS.",
         "color": "c2",
-        "shape": "diamond"
+        "shape": "ring"
       },
       {
         "tag": "04 / Learn",
@@ -495,18 +495,6 @@
       {
         "label": "LinkedIn",
         "url": "https://www.linkedin.com/in/prakashlal"
-      },
-      {
-        "label": "GitHub",
-        "url": "https://github.com/"
-      },
-      {
-        "label": "Email",
-        "url": "mailto:prakashlal@live.com"
-      },
-      {
-        "label": "iprakashlal.github.io/me",
-        "url": "https://iprakashlal.github.io/me/"
       }
     ],
     "footerLeft": "© 2026 Prakash Lal",
