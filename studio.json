@@ -51,7 +51,7 @@
       "template": "portfolio",
       "category": "personal",
       "createdAt": "2026-11-12T07:45:45.710Z",
-      "updatedAt": "2026-11-12T11:41:57.381Z",
+      "updatedAt": "2026-11-12T12:36:28.701Z",
       "contentAt": "2026-11-12T09:29:48.558Z",
       "summary": "Prakash Lal",
       "publish": {
@@ -60,7 +60,18 @@
         "branch": "main"
       },
       "siteSha": "09caa44d6f4410e3b5b6f179c024ec1bfc1218a7",
-      "syncedAt": "2026-11-12T11:41:57.381Z"
+      "syncedAt": "2026-11-12T11:41:57.381Z",
+      "host": {
+        "kind": "netlify",
+        "siteId": "a096b46e-ddf3-4756-92ef-10e08986b54c",
+        "siteName": "prakashlal",
+        "url": "https://prakashlal.netlify.app",
+        "sb": {
+          "url": "https://louglbcfxzkmvthqkhpr.supabase.co",
+          "key": "sb_publishable_Raf1GJZumqAi6wquQdc17A_4WQNmu5E",
+          "site": "prakash"
+        }
+      }
     },
     {
       "exports": [
