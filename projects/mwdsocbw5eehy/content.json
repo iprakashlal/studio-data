@@ -118,7 +118,8 @@
     "discImage": null,
     "discRim": "theme",
     "discSize": "m",
-    "discMotion": true
+    "discMotion": true,
+    "graphic": "monogram"
   },
   "ticker": [
     "Troubleshooting",
