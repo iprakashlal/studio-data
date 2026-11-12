@@ -49,8 +49,8 @@
       "template": "portfolio",
       "category": "clients",
       "createdAt": "2026-11-12T17:01:10.124Z",
-      "updatedAt": "2026-11-12T18:10:12.392Z",
-      "contentAt": "2026-11-12T18:09:45.066Z",
+      "updatedAt": "2026-11-12T19:36:06.486Z",
+      "contentAt": "2026-11-12T19:36:06.486Z",
       "summary": "Anubhav Verma",
       "publish": {
         "owner": "iprakashlal",
@@ -58,7 +58,7 @@
         "branch": "main"
       },
       "siteSha": "8f5defba0f7eac415f82bc9a98db2f9f6d2ca000",
-      "syncedAt": "2026-11-12T18:10:12.392Z"
+      "syncedAt": "2026-11-12T19:36:06.486Z"
     },
     {
       "exports": [
