@@ -1,0 +1,506 @@
+{
+  "theme": {
+    "bg": "#f5f4f2",
+    "surface": "#eae7e3",
+    "text": "#2b292c",
+    "soft": "#68646a",
+    "line": "#dcd7d1",
+    "accent": "#5e4063",
+    "accent2": "#8e7394",
+    "sale": "#734b7a",
+    "fontDisplay": "Cormorant Garamond",
+    "fontBody": "Mulish",
+    "radius": 11,
+    "preset": "gallery",
+    "layout": "minimal",
+    "nav": "pill",
+    "cards": "soft",
+    "buttons": "rounded",
+    "motionStyle": "fade",
+    "pattern": "none",
+    "ornament": "none",
+    "heading": "upper",
+    "shead": "dot",
+    "width": "wide",
+    "grid": "3",
+    "product": "minimal",
+    "cursor": "dot",
+    "loader": "split",
+    "textfx": "lines",
+    "hoverfx": "lift",
+    "scrollfx": "smooth",
+    "overlay": "grain",
+    "introBg": "#121070",
+    "introFg": "#e1dfdf",
+    "introTitle": "Kasa Katha",
+    "logoRadius": 50,
+    "scrollEase": "light",
+    "lineBreaks": "typed",
+    "deep": "#111111",
+    "motif": "studio",
+    "introFont": "display",
+    "introCase": "upper"
+  },
+  "brand": {
+    "name": "KASA KATHA",
+    "tagline": "Curating beautiful things for beautiful living!",
+    "logo": {
+      "path": "assets/uploads/1794389702930-kasa-katha-logo.jpg"
+    },
+    "announcement": "Free shipping on orders over ₹999",
+    "showAnnouncement": true
+  },
+  "seo": {
+    "titlePattern": "{page} · {site}",
+    "keywords": "",
+    "author": "",
+    "image": null,
+    "siteUrl": "",
+    "themeColor": "",
+    "noindex": false,
+    "googleVerification": "",
+    "meta": [],
+    "title": "Kasa Katha",
+    "description": "Small-batch ceramics, linen and paper goods."
+  },
+  "nav": {
+    "home": "Home",
+    "shop": "Dukaan",
+    "portfolio": "Our story",
+    "cart": "Cart",
+    "account": "Account",
+    "showPortfolio": true
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "New collection",
+      "title": "Curating beautiful things for beautiful living",
+      "text": "Premium Quality | Affordable Prices",
+      "cta": "Shop the collection",
+      "image": null
+    },
+    "featuredTitle": "Featured",
+    "featuredText": "Our most loved pieces this season",
+    "showCategories": true,
+    "categoriesTitle": "Shop by category",
+    "banner": {
+      "show": true,
+      "title": "Home • Lifestyle • Stories",
+      "text": "Every piece is hand-crafted & hand-painted!",
+      "cta": "Read our story",
+      "image": {
+        "path": "assets/uploads/1794393323024-screenshot-11-11-2026-16512-wwwinstagram.jpeg"
+      }
+    },
+    "testimonialsTitle": "What customers say",
+    "testimonials": []
+  },
+  "shop": {
+    "title": "Shop",
+    "intro": "Everything we make, in one place.",
+    "sortDefault": "featured",
+    "showSearch": true,
+    "emptyText": "No products match. Try another category or search."
+  },
+  "categories": [
+    {
+      "id": "ceramics",
+      "name": "Ceramics",
+      "description": "Cups, bowls and plates",
+      "image": null
+    },
+    {
+      "id": "linen",
+      "name": "Linen",
+      "description": "Napkins, aprons and runners",
+      "image": null
+    },
+    {
+      "id": "paper",
+      "name": "Paper",
+      "description": "Notebooks and cards",
+      "image": null
+    }
+  ],
+  "products": [
+    {
+      "id": "p2",
+      "slug": "serving-bowl",
+      "name": "Strawberry Ceramic Mug & Plate Set",
+      "category": "ceramics",
+      "price": 300,
+      "compareAt": 500,
+      "images": [
+        {
+          "path": "assets/uploads/1794394159860-828467534-18121363978739249-594043507140.jpg"
+        },
+        {
+          "path": "assets/uploads/1794394206316-825270185-18121363954739249-264083160701.jpg"
+        },
+        {
+          "path": "assets/uploads/1794394282132-825269917-18121363963739249-870078667413.jpg"
+        }
+      ],
+      "short": "Add a little sweetness to your everyday moments! ✨",
+      "description": "This cute handmade ceramic mug & matching plate set features a charming strawberry design—perfect for your morning tea, coffee, snacks, or gifting!",
+      "features": [
+        "24 cm across",
+        "Oven safe to 200 °C"
+      ],
+      "optionName": "",
+      "options": [],
+      "stock": "low",
+      "featured": true,
+      "badge": "",
+      "sample": false
+    },
+    {
+      "id": "pmwc046z9sizmr",
+      "slug": "",
+      "name": "Dreamy Village Hand-Crafted Ceramic Art Mug ",
+      "category": "ceramics",
+      "price": 300,
+      "compareAt": 500,
+      "images": [
+        {
+          "path": "assets/uploads/1794394539379-825270084-18121370950739249-415613243645.jpg"
+        },
+        {
+          "path": "assets/uploads/1794394602368-828525247-18121370932739249-575223228269.jpg"
+        },
+        {
+          "path": "assets/uploads/1794394627817-825270102-18121370941739249-309796203563.jpg"
+        }
+      ],
+      "short": "Bring a little piece of a dreamy village into your everyday coffee & tea moments!",
+      "description": "This beautiful hand-painted ceramic mug features a charming folk-art scene with a cozy cottage, whimsical trees, rolling clouds, and a cheerful sun.",
+      "features": [],
+      "optionName": "",
+      "options": [],
+      "stock": "in",
+      "featured": false,
+      "badge": ""
+    },
+    {
+      "id": "pmwc0a9j5zzxwl",
+      "slug": "",
+      "name": "Hand-Painted Floral Ceramic Cup & Saucer Set",
+      "category": "ceramics",
+      "price": 300,
+      "compareAt": 500,
+      "images": [
+        {
+          "path": "assets/uploads/1794394802788-825269933-18121372171739249-343339056683.jpg"
+        },
+        {
+          "path": "assets/uploads/1794394830457-828150665-18121372201739249-528618448083.jpg"
+        },
+        {
+          "path": "assets/uploads/1794394854293-828069045-18121372180739249-862929326685.jpg"
+        }
+      ],
+      "short": "Bring elegance to your tea & coffee moments with this beautiful hand-painted ceramic cup & saucer set",
+      "description": "Featuring delicate pink floral designs. Perfect for everyday use, gifting, or adding a charming touch to your table.",
+      "features": [],
+      "optionName": "",
+      "options": [],
+      "stock": "in",
+      "featured": false,
+      "badge": ""
+    },
+    {
+      "id": "pmwc0dx6cabs39",
+      "slug": "",
+      "name": "Bro Ceramic Mug & Saucer Set ",
+      "category": "ceramics",
+      "price": 300,
+      "compareAt": 500,
+      "images": [
+        {
+          "path": "assets/uploads/1794394950914-825270186-18121372471739249-744511643497.jpg"
+        },
+        {
+          "path": "assets/uploads/1794394978417-825270060-18121372480739249-476288736456.jpg"
+        },
+        {
+          "path": "assets/uploads/1794394998734-825270222-18121372462739249-193533984471.jpg"
+        }
+      ],
+      "short": "A fun and thoughtful gift for your favourite bro!",
+      "description": "This charming handmade ceramic set features a “Bro” mug paired with a cute leaf-shaped dish—perfect for his everyday tea, coffee, or snack time.",
+      "features": [],
+      "optionName": "",
+      "options": [],
+      "stock": "in",
+      "featured": false,
+      "badge": ""
+    },
+    {
+      "id": "pmwc0ggh5r3wc5",
+      "slug": "",
+      "name": "Turquoise Heart Ceramic Cup & Flower-Shaped Saucer Set ",
+      "category": "ceramics",
+      "price": 300,
+      "compareAt": 500,
+      "images": [
+        {
+          "path": "assets/uploads/1794395145508-825270210-18121373008739249-625263154210.jpg"
+        },
+        {
+          "path": "assets/uploads/1794395149504-827423532-18121373032739249-883839263487.jpg"
+        },
+        {
+          "path": "assets/uploads/1794395152838-828525244-18121373041739249-759644681439.jpg"
+        }
+      ],
+      "short": "Add a cheerful touch to your tea & coffee moments with this charming hand-painted ceramic cup and flower-shaped saucer set.",
+      "description": "Featuring a turquoise heart, playful polka dots, and matching heart accents, it’s perfect for your coffee corner, dining table, or as a thoughtful gift.",
+      "features": [],
+      "optionName": "",
+      "options": [],
+      "stock": "in",
+      "featured": false,
+      "badge": ""
+    },
+    {
+      "id": "pmwc0oq8mf9hzi",
+      "slug": "",
+      "name": "Green Striped Ceramic Mug & Saucer Set",
+      "category": "ceramics",
+      "price": 300,
+      "compareAt": 500,
+      "images": [
+        {
+          "path": "assets/uploads/1794395536723-825270004-18121373236739249-299475671509.jpg"
+        },
+        {
+          "path": "assets/uploads/1794395540771-828532260-18121373227739249-632309132151.jpg"
+        },
+        {
+          "path": "assets/uploads/1794395544350-825270006-18121373212739249-597090008235.jpg"
+        }
+      ],
+      "short": "Add a fresh and elegant touch to your everyday tea & coffee moments with this charming ceramic mug and matching saucer set.",
+      "description": "Featuring soft green stripes and a glossy finish, it’s perfect for your kitchen, coffee corner, or dining table.",
+      "features": [],
+      "optionName": "",
+      "options": [],
+      "stock": "in",
+      "featured": false,
+      "badge": ""
+    },
+    {
+      "id": "pmwc0s9udfc12c",
+      "slug": "",
+      "name": "Sweet Blossom Heart-Handle Ceramic Mug",
+      "category": "ceramics",
+      "price": 300,
+      "compareAt": 500,
+      "images": [
+        {
+          "path": "assets/uploads/1794396067962-828562598-18121373632739249-445351301792.jpg"
+        },
+        {
+          "path": "assets/uploads/1794396077298-825270020-18121373614739249-664160409933.jpg"
+        },
+        {
+          "path": "assets/uploads/1794396081451-830027646-18121373590739249-776395621997.jpg"
+        }
+      ],
+      "short": "Make every coffee or tea break extra special with this charming handcrafted ceramic mug.",
+      "description": "Featuring a unique heart-shaped handle, textured wavy finish, and delicate hand-painted red daisies with yellow accents, it’s a beautiful blend of colour, love, and artistry.",
+      "features": [],
+      "optionName": "",
+      "options": [],
+      "stock": "in",
+      "featured": false,
+      "badge": ""
+    },
+    {
+      "id": "pmwc13v22f8oog",
+      "slug": "",
+      "name": "Mum Ceramic Mug & Saucer Set",
+      "category": "ceramics",
+      "price": 300,
+      "compareAt": 500,
+      "images": [
+        {
+          "path": "assets/uploads/1794396271372-825269899-18121374313739249-729293066204.jpg"
+        },
+        {
+          "path": "assets/uploads/1794396275495-829299275-18121374304739249-202456972698.jpg"
+        },
+        {
+          "path": "assets/uploads/1794396279200-828954472-18121374289739249-499425063847.jpg"
+        }
+      ],
+      "short": "A heartfelt little gift for the most special woman in your life.",
+      "description": "This charming handmade ceramic set features a beautiful “MUM” mug paired with a matching flower-shaped dish—perfect for her everyday tea, coffee, or snack time.",
+      "features": [],
+      "optionName": "",
+      "options": [],
+      "stock": "in",
+      "featured": false,
+      "badge": ""
+    }
+  ],
+  "settings": {
+    "currency": "INR",
+    "shippingFee": 99,
+    "freeShippingOver": 1999,
+    "taxPercent": 0,
+    "taxLabel": "GST",
+    "taxIncluded": true,
+    "orderPrefix": "FG",
+    "minOrder": 0,
+    "maxQty": 10
+  },
+  "checkout": {
+    "title": "Checkout",
+    "intro": "Enter your details and choose how to pay. You'll send us the order on the next screen.",
+    "button": "Place order",
+    "askPhone": true,
+    "askAddress": true,
+    "askNotes": true,
+    "successTitle": "Thank you for your order",
+    "successText": "Pay using the option below, then send us the order so we can confirm it and ship."
+  },
+  "payments": {
+    "upi": {
+      "enabled": true,
+      "vpa": "cskv06@oksbi",
+      "payeeName": "Kasa katha",
+      "label": "UPI"
+    },
+    "razorpay": {
+      "enabled": false,
+      "link": "",
+      "label": "Card, UPI or netbanking (Razorpay)"
+    },
+    "stripe": {
+      "enabled": false,
+      "link": "",
+      "label": "International card (Stripe)"
+    },
+    "paypal": {
+      "enabled": false,
+      "username": "",
+      "label": "PayPal"
+    },
+    "cod": {
+      "enabled": true,
+      "label": "Cash on delivery",
+      "note": "Pay when your order arrives."
+    }
+  },
+  "orders": {
+    "whatsapp": "",
+    "email": "",
+    "sendVia": "whatsapp",
+    "messageIntro": "New order"
+  },
+  "contact": {
+    "email": "hello@example.com",
+    "phone": "",
+    "whatsapp": "",
+    "instagram": "",
+    "address": ""
+  },
+  "portfolio": {
+    "eyebrow": "Our story",
+    "title": "A small studio making useful things",
+    "intro": "We started with one kiln and a table at a weekend market. Today we make pieces for homes, cafés and other brands.",
+    "image": null,
+    "storyTitle": "How we work",
+    "story": "Every piece starts as a sketch and a test batch. We only make what we'd use ourselves.\n\nWe work with local makers and pay fairly, and we ship in recycled packaging.",
+    "stats": [
+      {
+        "value": "6",
+        "label": "Years making"
+      },
+      {
+        "value": "40+",
+        "label": "Café partners"
+      },
+      {
+        "value": "12k",
+        "label": "Pieces shipped"
+      }
+    ],
+    "workTitle": "Selected work",
+    "work": [
+      {
+        "title": "Café tableware",
+        "text": "A full set of cups and plates for a neighbourhood café.",
+        "tag": "Commission",
+        "image": null,
+        "link": ""
+      },
+      {
+        "title": "Brand gift boxes",
+        "text": "Corporate gift boxes with linen and a notebook.",
+        "tag": "B2B",
+        "image": null,
+        "link": ""
+      },
+      {
+        "title": "Market stall",
+        "text": "Where it all began: a weekend stall that still runs.",
+        "tag": "Retail",
+        "image": null,
+        "link": ""
+      }
+    ],
+    "ctaTitle": "Find something you'll use every day",
+    "ctaText": "Browse the full collection.",
+    "ctaButton": "Go to the shop"
+  },
+  "policies": [
+    {
+      "id": "shipping",
+      "title": "Shipping",
+      "text": "Orders ship within 3 working days. Delivery usually takes 3 to 7 days in India."
+    },
+    {
+      "id": "refunds",
+      "title": "Returns and refunds",
+      "text": "Contact us within 7 days of delivery if something is damaged or not right. We'll replace it or refund you."
+    },
+    {
+      "id": "privacy",
+      "title": "Privacy",
+      "text": "We only use your details to process and deliver your order. We don't sell or share them."
+    },
+    {
+      "id": "terms",
+      "title": "Terms",
+      "text": "Prices include applicable taxes unless stated. Orders are confirmed once payment is received or, for cash on delivery, once we confirm with you."
+    }
+  ],
+  "footer": {
+    "text": "Made in small batches."
+  },
+  "backend": {
+    "enabled": true,
+    "provider": "cloudflare",
+    "workerUrl": "https://kasakatha.imprakashlal.workers.dev/",
+    "supabaseUrl": "",
+    "anonKey": "",
+    "accounts": true,
+    "wishlist": true,
+    "requireLogin": true
+  },
+  "accountPage": {
+    "title": "Your account",
+    "signInText": "Enter your email and we'll send you a 6-digit code. No password needed."
+  },
+  "labels": {
+    "allProducts": "All products",
+    "viewAll": "View all",
+    "help": "Help",
+    "contact": "Contact"
+  },
+  "cms": {
+    "adminPage": "admin"
+  }
+}
