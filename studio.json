@@ -65,8 +65,8 @@
       "template": "portfolio",
       "category": "personal",
       "createdAt": "2026-11-12T07:45:45.710Z",
-      "updatedAt": "2026-11-12T13:59:49.734Z",
-      "contentAt": "2026-11-12T13:59:49.734Z",
+      "updatedAt": "2026-11-12T14:00:08.332Z",
+      "contentAt": "2026-11-12T14:00:08.332Z",
       "summary": "Prakash Lal",
       "publish": {
         "owner": "iprakashlal",
@@ -74,7 +74,7 @@
         "branch": "main"
       },
       "siteSha": "v7",
-      "syncedAt": "2026-11-12T13:25:30.954Z",
+      "syncedAt": "2026-11-12T14:00:08.332Z",
       "host": {
         "kind": "netlify",
         "siteId": "a096b46e-ddf3-4756-92ef-10e08986b54c",
