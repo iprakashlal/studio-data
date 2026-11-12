@@ -24,6 +24,21 @@
   ],
   "projects": [
     {
+      "id": "mwe0q3abv4lie",
+      "name": "test professional",
+      "template": "business",
+      "category": "personal",
+      "client": "test",
+      "notes": "",
+      "status": "draft",
+      "createdAt": "2026-11-12T20:46:28.643Z",
+      "updatedAt": "2026-11-12T20:46:28.643Z",
+      "contentAt": "2026-11-12T20:46:28.643Z",
+      "version": 0,
+      "summary": "6 services · 3 case studies",
+      "exports": []
+    },
+    {
       "exports": [
         {
           "kind": "github",
