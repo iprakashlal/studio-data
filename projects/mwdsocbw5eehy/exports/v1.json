@@ -1,0 +1,549 @@
+{
+  "theme": {
+    "bg": "#0F1B26",
+    "surface": "#162636",
+    "deep": "#0A121A",
+    "text": "#EAF4FB",
+    "soft": "#9BB4C7",
+    "line": "#2A4256",
+    "c1": "#A5D8FF",
+    "c2": "#FFB4A2",
+    "c3": "#C3F0CA",
+    "glow": "#C3F0CA",
+    "fontDisplay": "Sora",
+    "fontBody": "Inter",
+    "radius": 24,
+    "showGrid": false,
+    "showGlow": true,
+    "showNetwork": true,
+    "show3D": true,
+    "showSolids": true,
+    "showTicker": true,
+    "motion": true,
+    "preset": "glacier",
+    "layout": "center",
+    "nav": "float",
+    "cards": "glass",
+    "buttons": "glow",
+    "motionStyle": "blur",
+    "pattern": "none",
+    "ornament": "soft",
+    "heading": "tight",
+    "shead": "dot",
+    "width": "normal",
+    "about": "bento",
+    "skills": "cube",
+    "work": "stack",
+    "cursor": "none",
+    "loader": "none",
+    "textfx": "none",
+    "hoverfx": "none",
+    "scrollfx": "none",
+    "overlay": "none",
+    "heroArt": "default",
+    "motif": "ocean",
+    "introBg": "#0A121A",
+    "introFg": "#FFFFFF",
+    "kit": "classic",
+    "introTitle": "Anubhav Verma",
+    "introFont": "display",
+    "introCase": "upper",
+    "logoRadius": 22,
+    "beltCustom": false,
+    "beltBg": "#EAF4FB",
+    "beltFg": "#111111",
+    "beltDotOne": false,
+    "beltDot": "#A5D8FF",
+    "scrollEase": "light",
+    "lineBreaks": "typed"
+  },
+  "brand": {
+    "logoText": "Anubhav Verma",
+    "contactLabel": "Contact",
+    "icon": null,
+    "iconInMenu": true,
+    "iconOnHero": true
+  },
+  "hero": {
+    "eyebrow": "Systems Engineer · Bengaluru",
+    "firstName": "Anubhav",
+    "lastName": "Verma",
+    "role": "I design and build *useful things* for people who care about the details.",
+    "ctaPrimary": "View the deck ↓",
+    "ctaPrimaryTarget": "work",
+    "ctaSecondary": "LinkedIn ↗",
+    "ctaSecondaryUrl": "https://www.linkedin.com/in/anubhav-verma-50a7331b0",
+    "photo": null,
+    "photoShape": "circle",
+    "meta": [
+      {
+        "value": "6+",
+        "label": "Years"
+      },
+      {
+        "value": "40",
+        "label": "Projects"
+      },
+      {
+        "value": "Bengaluru",
+        "label": "Based in"
+      }
+    ],
+    "solids": [
+      {
+        "type": "sphere",
+        "color": "c1"
+      },
+      {
+        "type": "cube",
+        "color": "c2"
+      },
+      {
+        "type": "pyramid",
+        "color": "c3"
+      },
+      {
+        "type": "torus",
+        "color": "text"
+      },
+      {
+        "type": "icosahedron",
+        "color": "surface"
+      },
+      {
+        "type": "octahedron",
+        "color": "c1"
+      }
+    ],
+    "discImage": null,
+    "discRim": "theme",
+    "discSize": "m",
+    "discMotion": true
+  },
+  "ticker": [
+    "Troubleshooting",
+    "Incident Management",
+    "Amazon Web Services (AWS)"
+  ],
+  "sections": [
+    {
+      "id": "about",
+      "visible": true,
+      "navLabel": "About"
+    },
+    {
+      "id": "skills",
+      "visible": true,
+      "navLabel": "Skills"
+    },
+    {
+      "id": "work",
+      "visible": true,
+      "navLabel": "Work"
+    },
+    {
+      "id": "projects",
+      "visible": false,
+      "navLabel": "Projects"
+    },
+    {
+      "id": "learning",
+      "visible": true,
+      "navLabel": "Learning"
+    },
+    {
+      "id": "contact",
+      "visible": true,
+      "navLabel": "Contact"
+    }
+  ],
+  "about": {
+    "eyebrow": "About",
+    "title": "Built from the basics up.",
+    "lede": "A short line about the path that got you here.",
+    "storyLabel": "The story",
+    "storyHeading": "I started with *one small project*. Now I help teams ship work they're proud of.",
+    "story": "Experienced Splunk Administrator managing and troubleshooting production environment issues, ensuring smooth monitoring , administration and resolution of production issues. Skilled in working with Azure-integrated Splunk environments, handling various Azure services like Virtual Machines (VMs), Logic Apps, VMSS, Storage, and network-related services.\n\nProficient in onboarding indexes in Splunk, creating alerts, and configuring saved searches as per stakeholder requirements. Experienced in user access management and enforcing compliance policies to ensure adherence to security standards. I focus on maintaining a stable, responsive environment, adhering to strict timelines to meet stakeholder expectations.\n\nStrong knowledge of Incident, Problem, and Change Management processes, ensuring minimal downtime and swift issue resolution. Skilled in working within multiple team environments, effectively syncing with live progress on requirements. Adept at handling adhoc requirements under pressure and delivering timely solutions for business needs.\n\nPassionate about leveraging my technical expertise and experience to optimize processes, enhance system reliability, and drive business success.",
+    "stats": [
+      {
+        "value": 6,
+        "suffix": "+",
+        "label": "Years of experience",
+        "color": "c1",
+        "shape": "circle"
+      },
+      {
+        "value": 40,
+        "suffix": "",
+        "label": "Projects shipped",
+        "color": "c2",
+        "shape": "square"
+      }
+    ],
+    "quote": "“Make it simple, then make it *real*.”",
+    "quoteLabel": "Working motto",
+    "factsLabel": "Quick facts",
+    "facts": [
+      {
+        "k": "Now",
+        "v": "Your current role"
+      },
+      {
+        "k": "Before",
+        "v": "Previous companies"
+      },
+      {
+        "k": "Focus",
+        "v": "What you're known for"
+      },
+      {
+        "k": "Speaks",
+        "v": "Your languages"
+      }
+    ]
+  },
+  "skills": {
+    "eyebrow": "Skills",
+    "title": "Six sides of the build.",
+    "lede": "Drag the cube, or pick a skill to turn it to that face.",
+    "items": [
+      {
+        "tag": "01 / Plan",
+        "title": "Strategy",
+        "body": "Turning goals into a clear plan.",
+        "detail": "Workshops, roadmaps and priorities.",
+        "color": "c1",
+        "shape": "circle"
+      },
+      {
+        "tag": "02 / Shape",
+        "title": "Design",
+        "body": "Interfaces that feel obvious.",
+        "detail": "Flows, wireframes and visual design.",
+        "color": "surface",
+        "shape": "square"
+      },
+      {
+        "tag": "03 / Build",
+        "title": "Front-end",
+        "body": "Fast, accessible, maintainable.",
+        "detail": "HTML, CSS, TypeScript and React.",
+        "color": "c2",
+        "shape": "diamond"
+      },
+      {
+        "tag": "04 / Learn",
+        "title": "Research",
+        "body": "Decisions backed by real users.",
+        "detail": "Interviews, tests and analytics.",
+        "color": "c3",
+        "shape": "triangle"
+      },
+      {
+        "tag": "05 / Try",
+        "title": "Prototyping",
+        "body": "Ideas you can click before you build.",
+        "detail": "Quick prototypes to test ideas early.",
+        "color": "text",
+        "shape": "hexagon"
+      },
+      {
+        "tag": "06 / Ship",
+        "title": "Delivery",
+        "body": "From plan to production, on time.",
+        "detail": "Releases, reviews and measurement.",
+        "color": "surface",
+        "shape": "ring"
+      }
+    ]
+  },
+  "work": {
+    "eyebrow": "Work · 2020 → now",
+    "title": "The deck.",
+    "lede": "Each role stacks on the last. Scroll to deal the cards.",
+    "items": [
+      {
+        "period": "Sep 2023 – Present",
+        "title": "System Engineer",
+        "org": "Shell",
+        "orgNote": "Bengaluru",
+        "current": true,
+        "color": "surface",
+        "image": null,
+        "bullets": [
+          "Deloitte USI"
+        ],
+        "art": [
+          {
+            "type": "circle",
+            "color": "c1"
+          },
+          {
+            "type": "square",
+            "color": "c2"
+          },
+          {
+            "type": "triangle",
+            "color": "c3"
+          }
+        ]
+      },
+      {
+        "period": "Apr 2023 – Aug 2023",
+        "title": "Analyst",
+        "org": "Shell",
+        "orgNote": "Bengaluru",
+        "current": false,
+        "color": "c1",
+        "image": null,
+        "bullets": [
+          "Deloitte India (Offices of the US)"
+        ],
+        "art": [
+          {
+            "type": "ring",
+            "color": "text"
+          },
+          {
+            "type": "diamond",
+            "color": "c3"
+          }
+        ]
+      },
+      {
+        "period": "Aug 2020 – Apr 2023",
+        "title": "Associate Analyst",
+        "org": "Shell",
+        "orgNote": "",
+        "current": false,
+        "color": "c3",
+        "image": null,
+        "bullets": [
+          "Associate Analyst at Shell."
+        ],
+        "art": [
+          {
+            "type": "half",
+            "color": "deep"
+          },
+          {
+            "type": "square",
+            "color": "c2"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "Projects",
+    "title": "Selected work.",
+    "lede": "A closer look at things I've built.",
+    "items": []
+  },
+  "learning": {
+    "eyebrow": "Learning",
+    "title": "Education & certifications.",
+    "languagesLabel": "Speaks",
+    "items": [
+      {
+        "period": "Certification",
+        "title": "Splunk Core Certified Power User",
+        "sub": "",
+        "shape": "circle",
+        "color": "c1"
+      },
+      {
+        "period": "Certification",
+        "title": "SRE Foundation Certified",
+        "sub": "",
+        "shape": "square",
+        "color": "c2"
+      },
+      {
+        "period": "Certification",
+        "title": "Microsoft Certified: Azure",
+        "sub": "",
+        "shape": "triangle",
+        "color": "c3"
+      },
+      {
+        "period": "Certification",
+        "title": "Fundamentals",
+        "sub": "",
+        "shape": "circle",
+        "color": "c1"
+      },
+      {
+        "period": "Certification",
+        "title": "Splunk Core Certified User",
+        "sub": "",
+        "shape": "square",
+        "color": "c2"
+      }
+    ],
+    "languages": [
+      "English"
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Have a plan? Let's *build it.*",
+    "body": "Open to conversations on engineering leadership, front-end architecture and ambitious product work.",
+    "email": "hello@example.com",
+    "copyLabel": "Copy email",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/anubhav-verma-50a7331b0"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/"
+      },
+      {
+        "label": "Email",
+        "url": "mailto:hello@example.com"
+      }
+    ],
+    "footerLeft": "© 2026 Anubhav Verma",
+    "footerRight": "Circle · Square · Triangle"
+  },
+  "seo": {
+    "titlePattern": "{page} · {site}",
+    "keywords": "",
+    "author": "Anubhav Verma",
+    "image": null,
+    "siteUrl": "",
+    "themeColor": "",
+    "noindex": false,
+    "googleVerification": "",
+    "meta": [],
+    "title": "Anubhav Verma · Systems Engineer",
+    "description": "Experienced Splunk Administrator managing and troubleshooting production environment issues, ensuring smooth monitoring , administration and resolution…"
+  },
+  "velocity": {
+    "status": "Available for new projects",
+    "menuLabel": "Menu",
+    "preloader": true,
+    "cursor": true,
+    "marquee": true,
+    "scrollLabel": "Scroll to explore",
+    "portraitShape": "arch",
+    "signature": "Anubhav",
+    "signatureFont": "Great Vibes",
+    "signatureImage": null,
+    "nextLabel": "Next up",
+    "nextTitle": "Speaking at a design meetup",
+    "nextDate": "December 2026",
+    "nextUrl": "",
+    "messageLabel": "A note from me",
+    "message": "",
+    "showStory": true,
+    "storyTitle": "Moments",
+    "storyLabel": "Along the way",
+    "stories": [
+      {
+        "image": null,
+        "caption": "First project shipped",
+        "year": "2016"
+      },
+      {
+        "image": null,
+        "caption": "Led my first team",
+        "year": "2019"
+      },
+      {
+        "image": null,
+        "caption": "Product launch",
+        "year": "2022"
+      },
+      {
+        "image": null,
+        "caption": "Speaking on stage",
+        "year": "2024"
+      },
+      {
+        "image": null,
+        "caption": "New chapter",
+        "year": "2026"
+      }
+    ],
+    "quotes": [
+      "Start simple. *Keep shipping.*",
+      "Good work is *a habit*, not an accident."
+    ],
+    "showSplit": true,
+    "split": [
+      {
+        "kicker": "On",
+        "title": "the job",
+        "text": "Roles, results and the teams I've worked with.",
+        "target": "work",
+        "image": null
+      },
+      {
+        "kicker": "Off",
+        "title": "the clock",
+        "text": "Side projects, experiments and things I make for fun.",
+        "target": "projects",
+        "image": null
+      }
+    ],
+    "showPartners": true,
+    "partnersKicker": "Worked",
+    "partnersTitle": "with",
+    "partnersText": "Teams, clients and brands I've built things with.",
+    "partners": [
+      {
+        "name": "Company One",
+        "logo": null,
+        "url": ""
+      },
+      {
+        "name": "Company Two",
+        "logo": null,
+        "url": ""
+      },
+      {
+        "name": "Studio Three",
+        "logo": null,
+        "url": ""
+      },
+      {
+        "name": "Agency Four",
+        "logo": null,
+        "url": ""
+      },
+      {
+        "name": "Brand Five",
+        "logo": null,
+        "url": ""
+      },
+      {
+        "name": "Lab Six",
+        "logo": null,
+        "url": ""
+      }
+    ],
+    "footerTagline": "Always building *the next thing.*",
+    "backToTop": "Back to top"
+  },
+  "labels": {
+    "scrollHint": "Scroll to discover",
+    "project": "Project",
+    "available": "Available",
+    "dragHint": "Drag to explore",
+    "listView": "List view",
+    "canvasView": "Canvas view",
+    "close": "Close",
+    "scenes": "A portfolio in {n} scenes",
+    "stickerHint": "Grab a sticker and move it around.",
+    "edition": "Portfolio edition",
+    "inThisEdition": "In this edition",
+    "classifieds": "Classifieds",
+    "letters": "Letters to the editor"
+  },
+  "cms": {
+    "adminPage": "admin"
+  }
+}
