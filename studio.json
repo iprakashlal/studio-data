@@ -19,19 +19,19 @@
   ],
   "projects": [
     {
+      "exports": [],
+      "version": 0,
+      "notes": "",
+      "client": "Self",
+      "status": "draft",
       "id": "mwd8u31qvwg54",
       "name": "Prakash Lal",
       "template": "portfolio",
       "category": "personal",
-      "client": "Self",
-      "notes": "",
-      "status": "draft",
       "createdAt": "2026-11-12T07:45:45.710Z",
-      "updatedAt": "2026-11-12T07:45:45.710Z",
-      "contentAt": "2026-11-12T07:45:45.710Z",
-      "version": 0,
-      "summary": "Your Name",
-      "exports": []
+      "updatedAt": "2026-11-12T07:55:24.269Z",
+      "contentAt": "2026-11-12T07:55:24.269Z",
+      "summary": "Prakash Lal"
     },
     {
       "exports": [
