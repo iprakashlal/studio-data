@@ -123,7 +123,7 @@
       "template": "store",
       "category": "clients",
       "createdAt": "2026-11-11T05:55:31.915Z",
-      "updatedAt": "2026-11-11T20:01:43.970Z",
+      "updatedAt": "2026-11-12T09:36:05.227Z",
       "summary": "8 products",
       "publish": {
         "owner": "iprakashlal",
@@ -131,7 +131,7 @@
         "branch": "main"
       },
       "syncedAt": "2026-11-11T20:01:43.970Z",
-      "contentAt": "2026-11-11T19:59:25.751Z",
+      "contentAt": "2026-11-12T09:36:05.227Z",
       "siteSha": "dc3368ea1ff6bbff86dc3a561654e42f38353217"
     }
   ]
