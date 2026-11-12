@@ -1,5 +1,10 @@
 {
   "version": 1,
+  "brand": {
+    "name": "Picaffectz Studio",
+    "logo": "studio-assets/logo.png",
+    "v": 1794499314978
+  },
   "categories": [
     {
       "id": "personal",
@@ -65,8 +70,8 @@
       "template": "portfolio",
       "category": "personal",
       "createdAt": "2026-11-12T07:45:45.710Z",
-      "updatedAt": "2026-11-12T14:00:08.332Z",
-      "contentAt": "2026-11-12T14:00:08.332Z",
+      "updatedAt": "2026-11-12T16:32:58.377Z",
+      "contentAt": "2026-11-12T16:32:58.377Z",
       "summary": "Prakash Lal",
       "publish": {
         "owner": "iprakashlal",
@@ -181,10 +186,5 @@
       "contentAt": "2026-11-12T09:36:05.227Z",
       "siteSha": "720b604c07b7458437094b4e58dc9d2d04bb3546"
     }
-  ],
-  "brand": {
-    "name": "Picaffectz Studio",
-    "v": 1794499314978,
-    "logo": "studio-assets/logo.png"
-  }
+  ]
 }
