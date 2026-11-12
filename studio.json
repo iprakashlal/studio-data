@@ -24,21 +24,6 @@
   ],
   "projects": [
     {
-      "id": "mwdtbq51qy9dp",
-      "name": "test",
-      "template": "portfolio",
-      "category": "personal",
-      "client": "tt",
-      "notes": "",
-      "status": "draft",
-      "createdAt": "2026-11-12T17:19:21.109Z",
-      "updatedAt": "2026-11-12T17:19:21.109Z",
-      "contentAt": "2026-11-12T17:19:21.109Z",
-      "version": 0,
-      "summary": "Your Name",
-      "exports": []
-    },
-    {
       "exports": [
         {
           "kind": "github",
