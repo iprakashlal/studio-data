@@ -44,16 +44,16 @@
       "template": "portfolio",
       "category": "personal",
       "createdAt": "2026-11-12T07:45:45.710Z",
-      "updatedAt": "2026-11-12T08:53:39.422Z",
-      "contentAt": "2026-11-12T08:53:17.305Z",
+      "updatedAt": "2026-11-12T09:29:48.558Z",
+      "contentAt": "2026-11-12T09:29:48.558Z",
       "summary": "Prakash Lal",
       "publish": {
         "owner": "iprakashlal",
         "repo": "explore",
         "branch": "main"
       },
-      "siteSha": "bcd75083e63904ecb64856d919fc8aa7647f5896",
-      "syncedAt": "2026-11-12T08:53:39.422Z"
+      "siteSha": "09caa44d6f4410e3b5b6f179c024ec1bfc1218a7",
+      "syncedAt": "2026-11-12T09:29:48.558Z"
     },
     {
       "exports": [

@@ -47,12 +47,12 @@
     "introTitle": "Prakash Lal",
     "introFont": "body",
     "introCase": "upper",
-    "logoRadius": 24,
+    "logoRadius": 0,
     "scrollEase": "light",
     "lineBreaks": "typed",
-    "beltCustom": false,
-    "beltBg": "#000000",
-    "beltFg": "#FFFFFF",
+    "beltCustom": true,
+    "beltBg": "#00374a",
+    "beltFg": "#f5ec00",
     "beltDotOne": false,
     "beltDot": "#E0204F"
   },
@@ -78,15 +78,11 @@
     "photoShape": "circle",
     "meta": [
       {
-        "value": "14+",
+        "value": "10+",
         "label": "Years"
       },
       {
-        "value": "40",
-        "label": "Projects"
-      },
-      {
-        "value": "Mumbai",
+        "value": "Bangalore",
         "label": "Based in"
       }
     ],
