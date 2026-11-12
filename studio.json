@@ -58,7 +58,7 @@
       "template": "portfolio",
       "category": "personal",
       "createdAt": "2026-11-12T07:45:45.710Z",
-      "updatedAt": "2026-11-12T12:40:32.985Z",
+      "updatedAt": "2026-11-12T12:57:22.388Z",
       "contentAt": "2026-11-12T09:29:48.558Z",
       "summary": "Prakash Lal",
       "publish": {
@@ -77,7 +77,8 @@
           "url": "https://louglbcfxzkmvthqkhpr.supabase.co",
           "key": "sb_publishable_Raf1GJZumqAi6wquQdc17A_4WQNmu5E",
           "site": "prakash"
-        }
+        },
+        "domain": "prakashlal.in"
       }
     },
     {
