@@ -441,7 +441,7 @@
       "template": "portfolio",
       "category": "personal",
       "createdAt": "2026-11-12T07:45:45.710Z",
-      "updatedAt": "2026-11-13T14:32:34.945Z",
+      "updatedAt": "2026-11-13T14:38:59.076Z",
       "contentAt": "2026-11-13T05:36:37.669Z",
       "summary": "Prakash Lal",
       "publish": {
@@ -461,20 +461,7 @@
           "api": "https://picaffectz-db.imprakashlal.workers.dev",
           "site": "prakash"
         },
-        "domainSetup": {
-          "name": "prakashlal.in",
-          "zoneId": "ef9dc489480b88158f5ff248b9a5d633",
-          "ns": [
-            "anahi.ns.cloudflare.com",
-            "robert.ns.cloudflare.com"
-          ],
-          "registrar": {
-            "name": "GoDaddy",
-            "url": "https://dcc.godaddy.com/control/portfolio/prakashlal.in/settings?tab=dns&subtab=nameservers",
-            "how": "Nameservers → Change Nameservers → I'll use my own nameservers, paste the two below, Save"
-          },
-          "at": "2026-11-13T14:28:54.054Z"
-        }
+        "domain": "prakashlal.in"
       }
     },
     {
