@@ -342,5 +342,61 @@
       "contentAt": "2026-11-12T09:36:05.227Z",
       "siteSha": "720b604c07b7458437094b4e58dc9d2d04bb3546"
     }
-  ]
+  ],
+  "menus": {
+    "portfolio": {
+      "items": [
+        {
+          "id": "look"
+        },
+        {
+          "id": "velocity"
+        },
+        {
+          "id": "theme"
+        },
+        {
+          "id": "layout",
+          "label": "Menu & sections"
+        },
+        {
+          "id": "linkedin"
+        },
+        {
+          "id": "hero"
+        },
+        {
+          "id": "about"
+        },
+        {
+          "id": "skills"
+        },
+        {
+          "id": "work"
+        },
+        {
+          "id": "projects"
+        },
+        {
+          "id": "learning"
+        },
+        {
+          "id": "contact"
+        },
+        {
+          "id": "seo"
+        },
+        {
+          "id": "cms"
+        },
+        {
+          "id": "backup"
+        },
+        {
+          "id": "account"
+        }
+      ],
+      "studio": true
+    }
+  }
 }
