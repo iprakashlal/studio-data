@@ -116,7 +116,8 @@
     "discRim": "theme",
     "discSize": "m",
     "discImage": null,
-    "discMotion": true
+    "discMotion": true,
+    "graphic": "elements"
   },
   "ticker": [
     "Engineering Leadership",
@@ -630,7 +631,13 @@
     "backToTop": "Back to top"
   },
   "cms": {
-    "adminPage": "admin"
+    "adminPage": "admin",
+    "themes": {
+      "mode": "some",
+      "list": [
+        "gallery"
+      ]
+    }
   },
   "labels": {
     "scrollHint": "Scroll to discover",
