@@ -58,7 +58,7 @@
     "scrollEase": "light"
   },
   "brand": {
-    "logoText": "Prakash Lal",
+    "logoText": "Prakash",
     "contactLabel": "Contact",
     "icon": {
       "path": "assets/uploads/1794473523838-img-0168.png"
@@ -629,6 +629,9 @@
     ],
     "footerTagline": "Always building *the next thing.*",
     "backToTop": "Back to top"
+  },
+  "poweredBy": {
+    "show": true
   },
   "cms": {
     "adminPage": "admin",

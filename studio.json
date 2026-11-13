@@ -455,16 +455,16 @@
       "template": "portfolio",
       "category": "personal",
       "createdAt": "2026-11-12T07:45:45.710Z",
-      "updatedAt": "2026-11-13T15:48:14.023Z",
-      "contentAt": "2026-11-13T05:36:37.669Z",
+      "updatedAt": "2026-11-13T16:02:01.600Z",
+      "contentAt": "2026-11-13T16:02:01.600Z",
       "summary": "Prakash Lal",
       "publish": {
         "owner": "iprakashlal",
         "repo": "explore",
         "branch": "main"
       },
-      "siteSha": "c24697f010c534d9b887a79c6d7c9526e55a20bc6",
-      "syncedAt": "2026-11-13T15:48:14.023Z",
+      "siteSha": "c5e3e475e67460b8a7657a6268ce9d4ed5ccce226",
+      "syncedAt": "2026-11-13T16:02:01.600Z",
       "host": {
         "kind": "cloudflare",
         "siteId": "prakashlal",
