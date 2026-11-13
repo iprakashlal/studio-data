@@ -355,6 +355,13 @@
     {
       "exports": [
         {
+          "kind": "cloudflare",
+          "note": "",
+          "target": "prakashlal",
+          "version": 10,
+          "at": "2026-11-13T13:55:13.329Z"
+        },
+        {
           "kind": "github",
           "note": "",
           "target": "iprakashlal/explore",
@@ -418,7 +425,7 @@
           "at": "2026-11-12T08:15:53.172Z"
         }
       ],
-      "version": 9,
+      "version": 10,
       "notes": "",
       "client": "Self",
       "status": "published",
@@ -427,7 +434,7 @@
       "template": "portfolio",
       "category": "personal",
       "createdAt": "2026-11-12T07:45:45.710Z",
-      "updatedAt": "2026-11-13T12:59:39.875Z",
+      "updatedAt": "2026-11-13T13:55:13.329Z",
       "contentAt": "2026-11-13T05:36:37.669Z",
       "summary": "Prakash Lal",
       "publish": {
@@ -435,19 +442,18 @@
         "repo": "explore",
         "branch": "main"
       },
-      "siteSha": "v10",
-      "syncedAt": "2026-11-13T05:36:54.710Z",
+      "siteSha": "c9154d35e21d5360deab1bc791ad57217d6e8ae8f",
+      "syncedAt": "2026-11-13T13:55:13.329Z",
       "host": {
-        "kind": "netlify",
-        "siteId": "a096b46e-ddf3-4756-92ef-10e08986b54c",
+        "kind": "cloudflare",
+        "siteId": "prakashlal",
         "siteName": "prakashlal",
-        "url": "https://prakashlal.netlify.app",
-        "sb": {
-          "url": "https://louglbcfxzkmvthqkhpr.supabase.co",
-          "key": "sb_publishable_Raf1GJZumqAi6wquQdc17A_4WQNmu5E",
+        "url": "https://prakashlal.imprakashlal.workers.dev/",
+        "account": "1965b486d865e5710f65e5cf2c677965",
+        "cf": {
+          "api": "https://picaffectz-db.imprakashlal.workers.dev",
           "site": "prakash"
-        },
-        "domain": "prakashlal.in"
+        }
       }
     },
     {
