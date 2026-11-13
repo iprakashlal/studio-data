@@ -529,6 +529,9 @@
     "footerTagline": "Always building *the next thing.*",
     "backToTop": "Back to top"
   },
+  "poweredBy": {
+    "show": true
+  },
   "labels": {
     "scrollHint": "Scroll to discover",
     "project": "Project",
