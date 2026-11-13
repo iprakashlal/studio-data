@@ -14,7 +14,7 @@
     "radius": 16,
     "preset": "biz-clinic",
     "layout": "split",
-    "nav": "float",
+    "nav": "line",
     "cards": "flat",
     "buttons": "pill",
     "heading": "normal",
@@ -22,7 +22,7 @@
     "pattern": "none",
     "width": "normal",
     "motionStyle": "rise",
-    "bands": "soft",
+    "bands": "none",
     "heroArt": "arch",
     "cursor": "none",
     "loader": "none",
@@ -150,7 +150,9 @@
     "ctaPrimaryTarget": "contact",
     "ctaSecondary": "See our work",
     "ctaSecondaryTarget": "work",
-    "image": null,
+    "image": {
+      "path": "assets/uploads/1794544567004-untitled-design.png"
+    },
     "badges": [
       "ISO 27001 certified",
       "120+ projects delivered",
@@ -381,6 +383,18 @@
       {
         "name": "Sara Lindqvist",
         "role": "Head of Strategy",
+        "photo": null,
+        "linkedin": ""
+      },
+      {
+        "name": "New person",
+        "role": "",
+        "photo": null,
+        "linkedin": ""
+      },
+      {
+        "name": "New person",
+        "role": "",
         "photo": null,
         "linkedin": ""
       }

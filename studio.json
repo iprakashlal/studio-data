@@ -24,19 +24,19 @@
   ],
   "projects": [
     {
+      "exports": [],
+      "version": 0,
+      "notes": "",
+      "client": "test",
+      "status": "draft",
       "id": "mwe0q3abv4lie",
       "name": "test professional",
       "template": "business",
       "category": "personal",
-      "client": "test",
-      "notes": "",
-      "status": "draft",
       "createdAt": "2026-11-12T20:46:28.643Z",
-      "updatedAt": "2026-11-12T20:46:28.643Z",
-      "contentAt": "2026-11-12T20:46:28.643Z",
-      "version": 0,
-      "summary": "6 services · 3 case studies",
-      "exports": []
+      "updatedAt": "2026-11-13T04:43:54.231Z",
+      "contentAt": "2026-11-13T04:43:54.231Z",
+      "summary": "6 services · 3 case studies"
     },
     {
       "exports": [
