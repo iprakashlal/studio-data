@@ -571,5 +571,18 @@
       "contentAt": "2026-11-12T09:36:05.227Z",
       "siteSha": "720b604c07b7458437094b4e58dc9d2d04bb3546"
     }
-  ]
+  ],
+  "hosted": {
+    "url": "https://studio.imprakashlal.workers.dev/",
+    "siteId": "studio",
+    "siteName": "studio",
+    "pages": "cloudflare",
+    "account": "1965b486d865e5710f65e5cf2c677965",
+    "backend": "cloudflare",
+    "api": "https://picaffectz-db.imprakashlal.workers.dev",
+    "studio": "picaffectz-studio",
+    "owner": "prakashlal@live.com",
+    "build": "3157b71",
+    "at": "2026-11-13T16:06:54.422Z"
+  }
 }
