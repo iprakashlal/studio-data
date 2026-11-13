@@ -33,6 +33,21 @@
   ],
   "projects": [
     {
+      "id": "mweqs3jqx5g5i",
+      "name": "Picaffectz",
+      "template": "business",
+      "category": "personal",
+      "client": "Picaffectz",
+      "notes": "",
+      "status": "draft",
+      "createdAt": "2026-11-13T08:55:52.310Z",
+      "updatedAt": "2026-11-13T08:55:52.310Z",
+      "contentAt": "2026-11-13T08:55:52.310Z",
+      "version": 0,
+      "summary": "6 services · 3 case studies",
+      "exports": []
+    },
+    {
       "exports": [],
       "version": 0,
       "notes": "",
