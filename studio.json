@@ -132,7 +132,8 @@
         {
           "id": "account"
         }
-      ]
+      ],
+      "studio": true
     }
   },
   "categories": [
