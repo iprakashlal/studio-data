@@ -358,6 +358,13 @@
           "kind": "cloudflare",
           "note": "",
           "target": "prakashlal",
+          "version": 12,
+          "at": "2026-11-13T15:43:07.750Z"
+        },
+        {
+          "kind": "cloudflare",
+          "note": "",
+          "target": "prakashlal",
           "version": 11,
           "at": "2026-11-13T14:32:34.944Z"
         },
@@ -432,7 +439,7 @@
           "at": "2026-11-12T08:15:53.172Z"
         }
       ],
-      "version": 11,
+      "version": 12,
       "notes": "",
       "client": "Self",
       "status": "published",
@@ -441,7 +448,7 @@
       "template": "portfolio",
       "category": "personal",
       "createdAt": "2026-11-12T07:45:45.710Z",
-      "updatedAt": "2026-11-13T14:38:59.076Z",
+      "updatedAt": "2026-11-13T15:43:07.750Z",
       "contentAt": "2026-11-13T05:36:37.669Z",
       "summary": "Prakash Lal",
       "publish": {
@@ -450,7 +457,7 @@
         "branch": "main"
       },
       "siteSha": "c24697f010c534d9b887a79c6d7c9526e55a20bc6",
-      "syncedAt": "2026-11-13T14:32:34.945Z",
+      "syncedAt": "2026-11-13T15:43:07.750Z",
       "host": {
         "kind": "cloudflare",
         "siteId": "prakashlal",
