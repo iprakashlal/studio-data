@@ -53,6 +53,13 @@
           "kind": "github",
           "note": "",
           "target": "iprakashlal/anubhav",
+          "version": 3,
+          "at": "2026-11-13T08:23:29.284Z"
+        },
+        {
+          "kind": "github",
+          "note": "",
+          "target": "iprakashlal/anubhav",
           "version": 2,
           "at": "2026-11-12T18:10:12.392Z"
         },
@@ -64,7 +71,7 @@
           "at": "2026-11-12T17:05:40.714Z"
         }
       ],
-      "version": 2,
+      "version": 3,
       "notes": "",
       "client": "Anubhav",
       "status": "published",
@@ -73,7 +80,7 @@
       "template": "portfolio",
       "category": "clients",
       "createdAt": "2026-11-12T17:01:10.124Z",
-      "updatedAt": "2026-11-13T08:23:10.754Z",
+      "updatedAt": "2026-11-13T08:23:29.284Z",
       "contentAt": "2026-11-13T08:23:10.754Z",
       "summary": "Anubhav Verma",
       "publish": {
