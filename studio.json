@@ -134,6 +134,78 @@
         }
       ],
       "studio": true
+    },
+    "business": {
+      "items": [
+        {
+          "id": "look"
+        },
+        {
+          "id": "brand"
+        },
+        {
+          "id": "pages",
+          "label": "Menu & sections"
+        },
+        {
+          "id": "hero"
+        },
+        {
+          "id": "clients"
+        },
+        {
+          "id": "services"
+        },
+        {
+          "id": "stats"
+        },
+        {
+          "id": "work"
+        },
+        {
+          "id": "about"
+        },
+        {
+          "id": "process"
+        },
+        {
+          "id": "team"
+        },
+        {
+          "id": "testimonials"
+        },
+        {
+          "id": "pricing"
+        },
+        {
+          "id": "faq"
+        },
+        {
+          "id": "cta"
+        },
+        {
+          "id": "contact"
+        },
+        {
+          "id": "footer"
+        },
+        {
+          "id": "seo"
+        },
+        {
+          "id": "cms"
+        },
+        {
+          "id": "enquiries"
+        },
+        {
+          "id": "backup"
+        },
+        {
+          "id": "account"
+        }
+      ],
+      "studio": true
     }
   },
   "categories": [
