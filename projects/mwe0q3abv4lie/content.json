@@ -43,8 +43,8 @@
     "adminPage": "admin"
   },
   "brand": {
-    "name": "Northbeam Partners",
-    "tagline": "Strategy, design and engineering for growing companies",
+    "name": "Picaffectz",
+    "tagline": "Elevate Your Online Presence",
     "logo": null,
     "showName": true
   },
@@ -143,10 +143,10 @@
     }
   ],
   "hero": {
-    "eyebrow": "Consulting · Design · Engineering",
-    "title": "We help growing companies\nbuild what's next.",
-    "lede": "Northbeam is an independent team of strategists, designers and engineers. We plan, design and ship digital products for banks, insurers and healthcare companies.",
-    "ctaPrimary": "Book a consultation",
+    "eyebrow": "Transforming Businesses Online",
+    "title": "Picaffectz: Your Partner in Website Solutions",
+    "lede": "We help businesses thrive online with our portfolio, ecommerce, and business portfolio solutions.",
+    "ctaPrimary": "Get Started Today",
     "ctaPrimaryTarget": "contact",
     "ctaSecondary": "See our work",
     "ctaSecondaryTarget": "work",
@@ -190,78 +190,54 @@
   },
   "services": {
     "eyebrow": "What we do",
-    "title": "Services built around outcomes",
-    "lede": "Pick one engagement or bring us in end to end. Every project has a single lead who owns delivery.",
+    "title": "Our Services",
+    "lede": "We offer a range of website solutions to help businesses succeed online.",
     "items": [
       {
         "icon": "compass",
-        "title": "Strategy & discovery",
-        "body": "Research, roadmaps and business cases that get a project funded and pointed the right way.",
-        "points": [
-          "Customer research",
-          "Product roadmaps",
-          "Business cases"
-        ]
+        "title": "Portfolio Websites",
+        "body": "Showcase your work and services with a professional online portfolio.",
+        "points": []
       },
       {
         "icon": "layers",
-        "title": "Product design",
-        "body": "Interfaces people understand at first glance, tested with real users before a line of code.",
-        "points": [
-          "UX & UI design",
-          "Design systems",
-          "Usability testing"
-        ]
+        "title": "Ecommerce Solutions",
+        "body": "Sell products and services online with our secure and user-friendly ecommerce platforms.",
+        "points": []
       },
       {
         "icon": "code",
-        "title": "Engineering",
-        "body": "Web and mobile platforms built to last: secure, accessible and easy for your team to run.",
-        "points": [
-          "Web & mobile apps",
-          "Cloud platforms",
-          "Integrations & APIs"
-        ]
+        "title": "Business Portfolios",
+        "body": "Establish a strong online presence with a customized business portfolio website.",
+        "points": []
       },
       {
         "icon": "chart",
-        "title": "Data & analytics",
-        "body": "Dashboards and data pipelines that turn day-to-day numbers into decisions.",
-        "points": [
-          "Dashboards",
-          "Data pipelines",
-          "Reporting automation"
-        ]
+        "title": "Custom Website Design",
+        "body": "Get a unique and tailored website design that reflects your brand and business.",
+        "points": []
       },
       {
         "icon": "shield",
-        "title": "Security & compliance",
-        "body": "Reviews, hardening and documentation for regulated industries.",
-        "points": [
-          "Security reviews",
-          "Compliance readiness",
-          "Access controls"
-        ]
+        "title": "Website Development",
+        "body": "Our team of experts will develop a website that meets your specific needs and goals.",
+        "points": []
       },
       {
         "icon": "people",
-        "title": "Team augmentation",
-        "body": "Senior specialists who join your team for a quarter or a year.",
-        "points": [
-          "Tech leads",
-          "Designers",
-          "QA engineers"
-        ]
+        "title": "Website Maintenance",
+        "body": "We offer ongoing website maintenance and support to ensure your site remains secure and up-to-date.",
+        "points": []
       }
     ]
   },
   "about": {
     "eyebrow": "About us",
-    "title": "Independent, senior and accountable",
-    "body": "We started Northbeam in 2014 with a simple idea: small senior teams deliver better work than large junior ones.\n\nToday we're 45 people across Mumbai and London. We work with a handful of clients at a time, so every engagement gets our full attention.",
+    "title": "About Picaffectz",
+    "body": "We specialize in creating effective website solutions for businesses, helping them establish a strong online presence.",
     "image": null,
-    "mission": "Help organisations make better products with less risk.",
-    "vision": "Be the partner companies call first when the work really matters.",
+    "mission": "To empower businesses to succeed online",
+    "vision": "To be a leading provider of innovative website solutions",
     "values": [
       {
         "title": "Clarity",
@@ -340,20 +316,20 @@
     "title": "A clear path from first call to launch",
     "steps": [
       {
-        "title": "Discover",
-        "body": "Two weeks of interviews, data and workshops to agree on the problem and the goal."
+        "title": "Discovery",
+        "body": "We work with you to understand your business goals and needs."
       },
       {
-        "title": "Plan",
-        "body": "A roadmap, budget and team you can take to your board."
+        "title": "Design",
+        "body": "Our team creates a customized website design that meets your requirements."
       },
       {
-        "title": "Build",
-        "body": "Fortnightly releases you can see and test, with one lead accountable."
+        "title": "Development",
+        "body": "We develop a fully functional website that is secure and user-friendly."
       },
       {
-        "title": "Launch & grow",
-        "body": "Go-live support, training and a plan for what comes next."
+        "title": "Launch",
+        "body": "We launch your website and provide ongoing support and maintenance."
       }
     ]
   },
@@ -470,26 +446,34 @@
     "title": "Questions we're often asked",
     "items": [
       {
-        "q": "How quickly can you start?",
-        "a": "Usually within two to three weeks of signing. Discovery sprints can often start the following week."
+        "q": "What types of websites do you create?",
+        "a": "We create portfolio, ecommerce, and business portfolio websites."
       },
       {
-        "q": "Do you work with companies outside India?",
-        "a": "Yes. About a third of our clients are in the UK, Europe and the Middle East. We overlap with their working hours."
+        "q": "Do you offer custom website design?",
+        "a": "Yes, our team of experts will work with you to create a unique and tailored website design."
       },
       {
-        "q": "Who owns the work?",
-        "a": "You do. All designs, code and documents are yours once invoices are paid."
+        "q": "What is your website development process?",
+        "a": "Our process includes discovery, design, development, and launch."
       },
       {
-        "q": "Can you work with our in-house team?",
-        "a": "Most of our projects are joint teams. We can lead, support or hand over, whichever suits you."
+        "q": "Do you offer website maintenance and support?",
+        "a": "Yes, we offer ongoing website maintenance and support to ensure your site remains secure and up-to-date."
+      },
+      {
+        "q": "How do I get started?",
+        "a": "Contact us today to discuss your website needs and goals."
+      },
+      {
+        "q": "What sets you apart from other website solution providers?",
+        "a": "Our focus on innovation, customer satisfaction, and quality sets us apart from other providers."
       }
     ]
   },
   "cta": {
-    "title": "Have a project in mind?",
-    "body": "Tell us where you are and where you want to be. We'll reply within one working day.",
+    "title": "Get Started Today",
+    "body": "Contact us to learn more about our website solutions and how we can help your business succeed online.",
     "button": "Start a conversation",
     "target": "contact"
   },
@@ -521,14 +505,15 @@
       "success": "Thank you. We've received your enquiry and will reply within one working day.",
       "consent": "I agree to be contacted about this enquiry.",
       "saveTo": "auto",
+      "fileUrl": "",
       "sbUrl": "",
       "sbKey": "",
       "site": ""
     }
   },
   "footer": {
-    "text": "Strategy, design and engineering for growing companies.",
-    "legal": "© {year} Northbeam Partners LLP. All rights reserved.",
+    "text": "Copyright Picaffectz. All Rights Reserved.",
+    "legal": "© {year} Picaffectz LLP. All rights reserved.",
     "links": [
       {
         "label": "Privacy",
@@ -541,8 +526,8 @@
     ]
   },
   "seo": {
-    "title": "Northbeam Partners · Strategy, design and engineering",
-    "description": "Independent consultancy helping banks, insurers and healthcare companies plan, design and ship digital products.",
+    "title": "Picaffectz - Website Solutions for Businesses",
+    "description": "Picaffectz offers innovative website solutions for businesses, including portfolio, ecommerce, and business portfolio websites.",
     "titlePattern": "{page} · {site}",
     "keywords": "",
     "author": "",
@@ -552,5 +537,58 @@
     "noindex": false,
     "googleVerification": "",
     "meta": []
+  },
+  "poweredBy": {
+    "show": true
+  },
+  "warranty": {
+    "enabled": false,
+    "title": "Warranty & service status",
+    "intro": "Enter the number on your invoice or product to see its warranty and service status.",
+    "navLabel": "Warranty",
+    "inNav": true,
+    "inFooter": true,
+    "label": "Serial or invoice number",
+    "placeholder": "",
+    "verify": "none",
+    "verifyLabel": "",
+    "button": "Check status",
+    "notFound": "We couldn't find that number. Check it and try again.",
+    "help": "Need help? Contact us and we'll look it up.",
+    "showWarranty": true,
+    "showHistory": true,
+    "showCustomer": false,
+    "statuses": [
+      {
+        "id": "registered",
+        "label": "Registered",
+        "tone": "info"
+      },
+      {
+        "id": "received",
+        "label": "Received for service",
+        "tone": "progress"
+      },
+      {
+        "id": "in-repair",
+        "label": "In repair",
+        "tone": "progress"
+      },
+      {
+        "id": "ready",
+        "label": "Ready for pickup",
+        "tone": "ok"
+      },
+      {
+        "id": "delivered",
+        "label": "Delivered",
+        "tone": "ok"
+      },
+      {
+        "id": "not-covered",
+        "label": "Not covered",
+        "tone": "bad"
+      }
+    ]
   }
 }
